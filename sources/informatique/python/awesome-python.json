@@ -1,0 +1,4146 @@
+[
+  {
+    "title": "ajenti",
+    "content": "The admin panel your servers deserve.",
+    "source_url": "https://github.com/ajenti/ajenti",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069211"
+  },
+  {
+    "title": "django-grappelli",
+    "content": "A jazzy skin for the Django Admin-Interface.",
+    "source_url": "https://github.com/sehmaschine/django-grappelli",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069245"
+  },
+  {
+    "title": "flask-admin",
+    "content": "Simple and extensible administrative interface framework for Flask.",
+    "source_url": "https://github.com/flask-admin/flask-admin",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069254"
+  },
+  {
+    "title": "flower",
+    "content": "Real-time monitor and web admin for Celery.",
+    "source_url": "https://github.com/mher/flower",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069260"
+  },
+  {
+    "title": "jet-bridge",
+    "content": "Admin panel framework for any application with nice UI (ex Jet Django).",
+    "source_url": "https://github.com/jet-admin/jet-bridge",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069266"
+  },
+  {
+    "title": "wooey",
+    "content": "A Django app which creates automatic web UIs for Python scripts.",
+    "source_url": "https://github.com/wooey/wooey",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069274"
+  },
+  {
+    "title": "streamlit",
+    "content": "A framework which lets you build dashboards, generate reports, or create chat apps in minutes.",
+    "source_url": "https://github.com/streamlit/streamlit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069281"
+  },
+  {
+    "title": "algorithms",
+    "content": "Minimal examples of data structures and algorithms.",
+    "source_url": "https://github.com/keon/algorithms",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069288"
+  },
+  {
+    "title": "python-ds",
+    "content": "A collection of data structure and algorithms for coding interviews.",
+    "source_url": "https://github.com/prabhupant/python-ds",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069292"
+  },
+  {
+    "title": "sortedcontainers",
+    "content": "Fast and pure-Python implementation of sorted collections.",
+    "source_url": "https://github.com/grantjenks/python-sortedcontainers",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069295"
+  },
+  {
+    "title": "thealgorithms",
+    "content": "All Algorithms implemented in Python.",
+    "source_url": "https://github.com/TheAlgorithms/Python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069299"
+  },
+  {
+    "title": "pypattyrn",
+    "content": "A simple yet effective library for implementing common design patterns.",
+    "source_url": "https://github.com/tylerlaberge/PyPattyrn",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069304"
+  },
+  {
+    "title": "python-patterns",
+    "content": "A collection of design patterns in Python.",
+    "source_url": "https://github.com/faif/python-patterns",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069308"
+  },
+  {
+    "title": "transitions",
+    "content": "A lightweight, object-oriented finite state machine implementation.",
+    "source_url": "https://github.com/pytransitions/transitions",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069311"
+  },
+  {
+    "title": "daphne",
+    "content": "A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.",
+    "source_url": "https://github.com/django/daphne",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069315"
+  },
+  {
+    "title": "uvicorn",
+    "content": "A lightning-fast ASGI server implementation, using uvloop and httptools.",
+    "source_url": "https://github.com/encode/uvicorn",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069319"
+  },
+  {
+    "title": "hypercorn",
+    "content": "An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.",
+    "source_url": "https://github.com/pgjones/hypercorn",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069322"
+  },
+  {
+    "title": "asyncio",
+    "content": "(Python standard library) Asynchronous I/O, event loop, coroutines and tasks.",
+    "source_url": "https://docs.python.org/3/library/asyncio.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069326"
+  },
+  {
+    "title": "concurrent.futures",
+    "content": "(Python standard library) A high-level interface for asynchronously executing callables.",
+    "source_url": "https://docs.python.org/3/library/concurrent.futures.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069330"
+  },
+  {
+    "title": "multiprocessing",
+    "content": "(Python standard library) Process-based parallelism.",
+    "source_url": "https://docs.python.org/3/library/multiprocessing.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069333"
+  },
+  {
+    "title": "trio",
+    "content": "A friendly library for async concurrency and I/O.",
+    "source_url": "https://github.com/python-trio/trio",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069337"
+  },
+  {
+    "title": "twisted",
+    "content": "An event-driven networking engine.",
+    "source_url": "https://github.com/twisted/twisted",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069340"
+  },
+  {
+    "title": "uvloop",
+    "content": "Ultra fast asyncio event loop.",
+    "source_url": "https://github.com/MagicStack/uvloop",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069343"
+  },
+  {
+    "title": "eventlet",
+    "content": "Asynchronous framework with WSGI support.",
+    "source_url": "https://github.com/eventlet/eventlet",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069346"
+  },
+  {
+    "title": "gevent",
+    "content": "A coroutine-based Python networking library that uses [greenlet",
+    "source_url": "https://github.com/gevent/gevent",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069350"
+  },
+  {
+    "title": "audioread",
+    "content": "Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.",
+    "source_url": "https://github.com/beetbox/audioread",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069354"
+  },
+  {
+    "title": "audioFlux",
+    "content": "A library for audio and music analysis, feature extraction.",
+    "source_url": "https://github.com/libAudioFlux/audioFlux",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069358"
+  },
+  {
+    "title": "dejavu",
+    "content": "Audio fingerprinting and recognition.",
+    "source_url": "https://github.com/worldveil/dejavu",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069361"
+  },
+  {
+    "title": "kapre",
+    "content": "Keras Audio Preprocessors.",
+    "source_url": "https://github.com/keunwoochoi/kapre",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069364"
+  },
+  {
+    "title": "librosa",
+    "content": "Python library for audio and music analysis.",
+    "source_url": "https://github.com/librosa/librosa",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069368"
+  },
+  {
+    "title": "matchering",
+    "content": "A library for automated reference audio mastering.",
+    "source_url": "https://github.com/sergree/matchering",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069371"
+  },
+  {
+    "title": "mingus",
+    "content": "An advanced music theory and notation package with MIDI file and playback support.",
+    "source_url": "http://bspaans.github.io/python-mingus/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069374"
+  },
+  {
+    "title": "pyaudioanalysis",
+    "content": "Audio feature extraction, classification, segmentation and applications.",
+    "source_url": "https://github.com/tyiannak/pyAudioAnalysis",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069379"
+  },
+  {
+    "title": "pydub",
+    "content": "Manipulate audio with a simple and easy high level interface.",
+    "source_url": "https://github.com/jiaaro/pydub",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069383"
+  },
+  {
+    "title": "timeside",
+    "content": "Open web audio processing framework.",
+    "source_url": "https://github.com/Parisson/TimeSide",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069386"
+  },
+  {
+    "title": "beets",
+    "content": "A music library manager and [MusicBrainz",
+    "source_url": "https://github.com/beetbox/beets",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069389"
+  },
+  {
+    "title": "eyed3",
+    "content": "A tool for working with audio files, specifically MP3 files containing ID3 metadata.",
+    "source_url": "https://github.com/nicfit/eyeD3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069393"
+  },
+  {
+    "title": "mutagen",
+    "content": "A Python module to handle audio metadata.",
+    "source_url": "https://github.com/quodlibet/mutagen",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069398"
+  },
+  {
+    "title": "tinytag",
+    "content": "A library for reading music meta data of MP3, OGG, FLAC and Wave files.",
+    "source_url": "https://github.com/devsnd/tinytag",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069402"
+  },
+  {
+    "title": "authlib",
+    "content": "JavaScript Object Signing and Encryption draft implementation.",
+    "source_url": "https://github.com/lepture/authlib",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069406"
+  },
+  {
+    "title": "django-allauth",
+    "content": "Authentication app for Django that \"just works.\"",
+    "source_url": "https://github.com/pennersr/django-allauth",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069409"
+  },
+  {
+    "title": "django-oauth-toolkit",
+    "content": "OAuth 2 goodies for Django.",
+    "source_url": "https://github.com/jazzband/django-oauth-toolkit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069412"
+  },
+  {
+    "title": "oauthlib",
+    "content": "A generic and thorough implementation of the OAuth request-signing logic.",
+    "source_url": "https://github.com/oauthlib/oauthlib",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069417"
+  },
+  {
+    "title": "pyjwt",
+    "content": "JSON Web Token implementation in Python.",
+    "source_url": "https://github.com/jpadilla/pyjwt",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069420"
+  },
+  {
+    "title": "python-jose",
+    "content": "A JOSE implementation in Python.",
+    "source_url": "https://github.com/mpdavis/python-jose/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069424"
+  },
+  {
+    "title": "bitbake",
+    "content": "A make-like build tool for embedded Linux.",
+    "source_url": "https://github.com/openembedded/bitbake",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069427"
+  },
+  {
+    "title": "buildout",
+    "content": "A build system for creating, assembling and deploying applications from multiple parts.",
+    "source_url": "https://github.com/buildout/buildout",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069431"
+  },
+  {
+    "title": "platformio",
+    "content": "A console tool to build code with different development platforms.",
+    "source_url": "https://github.com/platformio/platformio-core",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069434"
+  },
+  {
+    "title": "pybuilder",
+    "content": "A continuous build tool written in pure Python.",
+    "source_url": "https://github.com/pybuilder/pybuilder",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069437"
+  },
+  {
+    "title": "scons",
+    "content": "A software construction tool.",
+    "source_url": "https://github.com/SCons/scons",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069440"
+  },
+  {
+    "title": "attrs",
+    "content": "Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.",
+    "source_url": "https://github.com/python-attrs/attrs",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069444"
+  },
+  {
+    "title": "bidict",
+    "content": "Efficient, Pythonic bidirectional map data structures and related functionality..",
+    "source_url": "https://github.com/jab/bidict",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069447"
+  },
+  {
+    "title": "box",
+    "content": "Python dictionaries with advanced dot notation access.",
+    "source_url": "https://github.com/cdgriffith/Box",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069450"
+  },
+  {
+    "title": "dataclasses",
+    "content": "(Python standard library) Data classes.",
+    "source_url": "https://docs.python.org/3/library/dataclasses.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069455"
+  },
+  {
+    "title": "dotteddict",
+    "content": "A library that provides a method of accessing lists and dicts with a dotted path notation.",
+    "source_url": "https://github.com/carlosescri/DottedDict",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069458"
+  },
+  {
+    "title": "feincms",
+    "content": "One of the most advanced Content Management Systems built on Django.",
+    "source_url": "https://github.com/feincms/feincms",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069462"
+  },
+  {
+    "title": "indico",
+    "content": "A feature-rich event management system, made @ [CERN",
+    "source_url": "https://github.com/indico/indico",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069465"
+  },
+  {
+    "title": "wagtail",
+    "content": "A Django content management system.",
+    "source_url": "https://github.com/wagtail/wagtail",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069470"
+  },
+  {
+    "title": "beaker",
+    "content": "A WSGI middleware for sessions and caching.",
+    "source_url": "https://github.com/bbangert/beaker",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069474"
+  },
+  {
+    "title": "django-cache-machine",
+    "content": "Automatic caching and invalidation for Django models.",
+    "source_url": "https://github.com/django-cache-machine/django-cache-machine",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069477"
+  },
+  {
+    "title": "django-cacheops",
+    "content": "A slick ORM cache with automatic granular event-driven invalidation.",
+    "source_url": "https://github.com/Suor/django-cacheops",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069480"
+  },
+  {
+    "title": "dogpile.cache",
+    "content": "dogpile.cache is a next generation replacement for Beaker made by the same authors.",
+    "source_url": "https://github.com/sqlalchemy/dogpile.cache",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069483"
+  },
+  {
+    "title": "hermescache",
+    "content": "Python caching library with tag-based invalidation and dogpile effect prevention.",
+    "source_url": "https://pypi.org/project/HermesCache/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069487"
+  },
+  {
+    "title": "pylibmc",
+    "content": "A Python wrapper around the [libmemcached",
+    "source_url": "https://github.com/lericson/pylibmc",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069490"
+  },
+  {
+    "title": "python-diskcache",
+    "content": "SQLite and file backed cache backend with faster lookups than memcached and redis.",
+    "source_url": "https://github.com/grantjenks/python-diskcache",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069494"
+  },
+  {
+    "title": "errbot",
+    "content": "The easiest and most popular chatbot to implement ChatOps.",
+    "source_url": "https://github.com/errbotio/errbot/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069498"
+  },
+  {
+    "title": "code2flow",
+    "content": "Turn your Python and JavaScript code into DOT flowcharts.",
+    "source_url": "https://github.com/scottrogowski/code2flow",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069502"
+  },
+  {
+    "title": "prospector",
+    "content": "A tool to analyse Python code.",
+    "source_url": "https://github.com/PyCQA/prospector",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069506"
+  },
+  {
+    "title": "vulture",
+    "content": "A tool for finding and analysing dead Python code.",
+    "source_url": "https://github.com/jendrikseipp/vulture",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069509"
+  },
+  {
+    "title": "flake8",
+    "content": "A wrapper around `pycodestyle`, `pyflakes` and McCabe.",
+    "source_url": "https://github.com/PyCQA/flake8",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069512"
+  },
+  {
+    "title": "awesome-flake8-extensions",
+    "content": "",
+    "source_url": "https://github.com/DmytroLitvinov/awesome-flake8-extensions)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069516"
+  },
+  {
+    "title": "pylint",
+    "content": "A fully customizable source code analyzer.",
+    "source_url": "https://github.com/pylint-dev/pylint",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069519"
+  },
+  {
+    "title": "ruff",
+    "content": "An extremely fast Python linter and code formatter.",
+    "source_url": "https://github.com/astral-sh/ruff",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069523"
+  },
+  {
+    "title": "black",
+    "content": "The uncompromising Python code formatter.",
+    "source_url": "https://github.com/psf/black",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069526"
+  },
+  {
+    "title": "isort",
+    "content": "A Python utility / library to sort imports.",
+    "source_url": "https://github.com/timothycrosley/isort",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069530"
+  },
+  {
+    "title": "yapf",
+    "content": "Yet another Python code formatter from Google.",
+    "source_url": "https://github.com/google/yapf",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069533"
+  },
+  {
+    "title": "mypy",
+    "content": "Check variable types during compile time.",
+    "source_url": "https://github.com/python/mypy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069537"
+  },
+  {
+    "title": "pyre-check",
+    "content": "Performant type checking.",
+    "source_url": "https://github.com/facebook/pyre-check",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069540"
+  },
+  {
+    "title": "typeshed",
+    "content": "Collection of library stubs for Python, with static types.",
+    "source_url": "https://github.com/python/typeshed",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069544"
+  },
+  {
+    "title": "monkeytype",
+    "content": "A system for Python that generates static type annotations by collecting runtime types.",
+    "source_url": "https://github.com/Instagram/MonkeyType",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069547"
+  },
+  {
+    "title": "pytype",
+    "content": "Pytype checks and infers types for Python code - without requiring type annotations.",
+    "source_url": "https://github.com/google/pytype",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069550"
+  },
+  {
+    "title": "cement",
+    "content": "CLI Application Framework for Python.",
+    "source_url": "https://github.com/datafolklabs/cement",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069554"
+  },
+  {
+    "title": "click",
+    "content": "A package for creating beautiful command line interfaces in a composable way.",
+    "source_url": "https://github.com/pallets/click/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069558"
+  },
+  {
+    "title": "cliff",
+    "content": "A framework for creating command-line programs with multi-level commands.",
+    "source_url": "https://github.com/openstack/cliff",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069562"
+  },
+  {
+    "title": "python-fire",
+    "content": "A library for creating command line interfaces from absolutely any Python object.",
+    "source_url": "https://github.com/google/python-fire",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069565"
+  },
+  {
+    "title": "python-prompt-toolkit",
+    "content": "A library for building powerful interactive command lines.",
+    "source_url": "https://github.com/prompt-toolkit/python-prompt-toolkit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069569"
+  },
+  {
+    "title": "alive-progress",
+    "content": "A new kind of Progress Bar, with real-time throughput, eta and very cool animations.",
+    "source_url": "https://github.com/rsalmei/alive-progress",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069573"
+  },
+  {
+    "title": "asciimatics",
+    "content": "A package to create full-screen text UIs (from interactive forms to ASCII animations).",
+    "source_url": "https://github.com/peterbrittain/asciimatics",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069577"
+  },
+  {
+    "title": "bashplotlib",
+    "content": "Making basic plots in the terminal.",
+    "source_url": "https://github.com/glamp/bashplotlib",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069580"
+  },
+  {
+    "title": "colorama",
+    "content": "Cross-platform colored terminal text.",
+    "source_url": "https://github.com/tartley/colorama",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069583"
+  },
+  {
+    "title": "rich",
+    "content": "Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.",
+    "source_url": "https://github.com/Textualize/rich",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069587"
+  },
+  {
+    "title": "tqdm",
+    "content": "Fast, extensible progress bar for loops and CLI.",
+    "source_url": "https://github.com/tqdm/tqdm",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069590"
+  },
+  {
+    "title": "copier",
+    "content": "A library and command-line utility for rendering projects templates.",
+    "source_url": "https://github.com/copier-org/copier",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069594"
+  },
+  {
+    "title": "cookiecutter",
+    "content": "A command-line utility that creates projects from cookiecutters (project templates).",
+    "source_url": "https://github.com/cookiecutter/cookiecutter",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069597"
+  },
+  {
+    "title": "doitlive",
+    "content": "A tool for live presentations in the terminal.",
+    "source_url": "https://github.com/sloria/doitlive",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069601"
+  },
+  {
+    "title": "howdoi",
+    "content": "Instant coding answers via the command line.",
+    "source_url": "https://github.com/gleitz/howdoi",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069604"
+  },
+  {
+    "title": "invoke",
+    "content": "A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.",
+    "source_url": "https://github.com/pyinvoke/invoke",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069607"
+  },
+  {
+    "title": "pathpicker",
+    "content": "Select files out of bash output.",
+    "source_url": "https://github.com/facebook/PathPicker",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069610"
+  },
+  {
+    "title": "thefuck",
+    "content": "Correcting your previous console command.",
+    "source_url": "https://github.com/nvbn/thefuck",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069614"
+  },
+  {
+    "title": "tmuxp",
+    "content": "A [tmux",
+    "source_url": "https://github.com/tmux-python/tmuxp",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069617"
+  },
+  {
+    "title": "try",
+    "content": "A dead simple CLI to try out python packages - it's never been easier.",
+    "source_url": "https://github.com/timofurrer/try",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069621"
+  },
+  {
+    "title": "httpie",
+    "content": "A command line HTTP client, a user-friendly cURL replacement.",
+    "source_url": "https://github.com/httpie/cli",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069625"
+  },
+  {
+    "title": "iredis",
+    "content": "Redis CLI with autocompletion and syntax highlighting.",
+    "source_url": "https://github.com/laixintao/iredis",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069628"
+  },
+  {
+    "title": "litecli",
+    "content": "SQLite CLI with autocompletion and syntax highlighting.",
+    "source_url": "https://github.com/dbcli/litecli",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069631"
+  },
+  {
+    "title": "mycli",
+    "content": "MySQL CLI with autocompletion and syntax highlighting.",
+    "source_url": "https://github.com/dbcli/mycli",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069635"
+  },
+  {
+    "title": "pgcli",
+    "content": "PostgreSQL CLI with autocompletion and syntax highlighting.",
+    "source_url": "https://github.com/dbcli/pgcli",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069638"
+  },
+  {
+    "title": "easyocr",
+    "content": "Ready-to-use OCR with 40+ languages supported.",
+    "source_url": "https://github.com/JaidedAI/EasyOCR",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069641"
+  },
+  {
+    "title": "kornia",
+    "content": "Open Source Differentiable Computer Vision Library for PyTorch.",
+    "source_url": "https://github.com/kornia/kornia/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069645"
+  },
+  {
+    "title": "opencv",
+    "content": "Open Source Computer Vision Library.",
+    "source_url": "https://opencv.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069648"
+  },
+  {
+    "title": "pytesseract",
+    "content": "A wrapper for [Google Tesseract OCR",
+    "source_url": "https://github.com/madmaze/pytesseract",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069651"
+  },
+  {
+    "title": "tesserocr",
+    "content": "Another simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.",
+    "source_url": "https://github.com/sirfz/tesserocr",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069655"
+  },
+  {
+    "title": "configparser",
+    "content": "(Python standard library) INI file parser.",
+    "source_url": "https://docs.python.org/3/library/configparser.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069659"
+  },
+  {
+    "title": "configobj",
+    "content": "INI file parser with validation.",
+    "source_url": "https://github.com/DiffSK/configobj",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069671"
+  },
+  {
+    "title": "hydra",
+    "content": "Hydra is a framework for elegantly configuring complex applications.",
+    "source_url": "https://github.com/facebookresearch/hydra",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069674"
+  },
+  {
+    "title": "python-decouple",
+    "content": "Strict separation of settings from code.",
+    "source_url": "https://github.com/HBNetwork/python-decouple",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069677"
+  },
+  {
+    "title": "cryptography",
+    "content": "A package designed to expose cryptographic primitives and recipes to Python developers.",
+    "source_url": "https://github.com/pyca/cryptography",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069682"
+  },
+  {
+    "title": "paramiko",
+    "content": "The leading native Python SSHv2 protocol library.",
+    "source_url": "https://github.com/paramiko/paramiko",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069685"
+  },
+  {
+    "title": "pynacl",
+    "content": "Python binding to the Networking and Cryptography (NaCl) library.",
+    "source_url": "https://github.com/pyca/pynacl",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069688"
+  },
+  {
+    "title": "pandas",
+    "content": "A library providing high-performance, easy-to-use data structures and data analysis tools.",
+    "source_url": "http://pandas.pydata.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069692"
+  },
+  {
+    "title": "aws-sdk-pandas",
+    "content": "Pandas on AWS.",
+    "source_url": "https://github.com/aws/aws-sdk-pandas",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069706"
+  },
+  {
+    "title": "datasette",
+    "content": "An open source multi-tool for exploring and publishing data.",
+    "source_url": "https://github.com/simonw/datasette",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069709"
+  },
+  {
+    "title": "optimus",
+    "content": "Agile Data Science Workflows made easy with PySpark.",
+    "source_url": "https://github.com/hi-primus/optimus",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069713"
+  },
+  {
+    "title": "cerberus",
+    "content": "A lightweight and extensible data validation library.",
+    "source_url": "https://github.com/pyeve/cerberus",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069716"
+  },
+  {
+    "title": "colander",
+    "content": "Validating and deserializing data obtained via XML, JSON, an HTML form post.",
+    "source_url": "https://github.com/Pylons/colander",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069720"
+  },
+  {
+    "title": "jsonschema",
+    "content": "An implementation of [JSON Schema",
+    "source_url": "https://github.com/python-jsonschema/jsonschema",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069723"
+  },
+  {
+    "title": "schema",
+    "content": "A library for validating Python data structures.",
+    "source_url": "https://github.com/keleshev/schema",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069726"
+  },
+  {
+    "title": "schematics",
+    "content": "Data Structure Validation.",
+    "source_url": "https://github.com/schematics/schematics",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069729"
+  },
+  {
+    "title": "voluptuous",
+    "content": "A Python data validation library.",
+    "source_url": "https://github.com/alecthomas/voluptuous",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069732"
+  },
+  {
+    "title": "pydantic",
+    "content": "Data validation using Python type hints.",
+    "source_url": "https://github.com/pydantic/pydantic",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069737"
+  },
+  {
+    "title": "altair",
+    "content": "Declarative statistical visualization library for Python.",
+    "source_url": "https://github.com/altair-viz/altair",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069740"
+  },
+  {
+    "title": "bokeh",
+    "content": "Interactive Web Plotting for Python.",
+    "source_url": "https://github.com/bokeh/bokeh",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069744"
+  },
+  {
+    "title": "bqplot",
+    "content": "Interactive Plotting Library for the Jupyter Notebook.",
+    "source_url": "https://github.com/bloomberg/bqplot",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069747"
+  },
+  {
+    "title": "cartopy",
+    "content": "A cartographic python library with matplotlib support.",
+    "source_url": "https://github.com/SciTools/cartopy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069750"
+  },
+  {
+    "title": "diagrams",
+    "content": "Diagram as Code.",
+    "source_url": "https://github.com/mingrammer/diagrams",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069753"
+  },
+  {
+    "title": "matplotlib",
+    "content": "A Python 2D plotting library.",
+    "source_url": "https://github.com/matplotlib/matplotlib",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069756"
+  },
+  {
+    "title": "plotnine",
+    "content": "A grammar of graphics for Python based on ggplot2.",
+    "source_url": "https://github.com/has2k1/plotnine",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069759"
+  },
+  {
+    "title": "pygal",
+    "content": "A Python SVG Charts Creator.",
+    "source_url": "https://github.com/Kozea/pygal",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069762"
+  },
+  {
+    "title": "pygraphviz",
+    "content": "Python interface to [Graphviz",
+    "source_url": "https://github.com/pygraphviz/pygraphviz/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069765"
+  },
+  {
+    "title": "pyqtgraph",
+    "content": "Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.",
+    "source_url": "https://github.com/pyqtgraph/pyqtgraph",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069769"
+  },
+  {
+    "title": "seaborn",
+    "content": "Statistical data visualization using Matplotlib.",
+    "source_url": "https://github.com/mwaskom/seaborn",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069773"
+  },
+  {
+    "title": "vispy",
+    "content": "High-performance scientific visualization based on OpenGL.",
+    "source_url": "https://github.com/vispy/vispy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069777"
+  },
+  {
+    "title": "pickleDB",
+    "content": "A simple and lightweight key-value store for Python.",
+    "source_url": "https://github.com/patx/pickledb",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069781"
+  },
+  {
+    "title": "tinydb",
+    "content": "A tiny, document-oriented database.",
+    "source_url": "https://github.com/msiemens/tinydb",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069784"
+  },
+  {
+    "title": "zodb",
+    "content": "A native object database for Python. A key-value and object graph database.",
+    "source_url": "https://github.com/zopefoundation/ZODB",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069787"
+  },
+  {
+    "title": "mysqlclient",
+    "content": "MySQL connector with Python 3 support ([mysql-python",
+    "source_url": "https://github.com/PyMySQL/mysqlclient",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069792"
+  },
+  {
+    "title": "pymysql",
+    "content": "A pure Python MySQL driver compatible to mysql-python.",
+    "source_url": "https://github.com/PyMySQL/PyMySQL",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069795"
+  },
+  {
+    "title": "psycopg",
+    "content": "The most popular PostgreSQL adapter for Python.",
+    "source_url": "https://github.com/psycopg/psycopg",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069798"
+  },
+  {
+    "title": "sqlite3",
+    "content": "(Python standard library) SQlite interface compliant with DB-API 2.0.",
+    "source_url": "https://docs.python.org/3/library/sqlite3.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069802"
+  },
+  {
+    "title": "sqlite-utils",
+    "content": "Python CLI utility and library for manipulating SQLite databases.",
+    "source_url": "https://github.com/simonw/sqlite-utils",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069805"
+  },
+  {
+    "title": "pymssql",
+    "content": "A simple database interface to Microsoft SQL Server.",
+    "source_url": "https://github.com/pymssql/pymssql",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069808"
+  },
+  {
+    "title": "clickhouse-driver",
+    "content": "Python driver with native interface for ClickHouse.",
+    "source_url": "https://github.com/mymarilyn/clickhouse-driver",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069812"
+  },
+  {
+    "title": "cassandra-driver",
+    "content": "The Python Driver for Apache Cassandra.",
+    "source_url": "https://github.com/datastax/python-driver",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069815"
+  },
+  {
+    "title": "happybase",
+    "content": "A developer-friendly library for Apache HBase.",
+    "source_url": "https://github.com/python-happybase/happybase",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069819"
+  },
+  {
+    "title": "kafka-python",
+    "content": "The Python client for Apache Kafka.",
+    "source_url": "https://github.com/dpkp/kafka-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069823"
+  },
+  {
+    "title": "pymongo",
+    "content": "The official Python client for MongoDB.",
+    "source_url": "https://github.com/mongodb/mongo-python-driver",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069826"
+  },
+  {
+    "title": "motor",
+    "content": "The async Python driver for MongoDB.",
+    "source_url": "https://github.com/mongodb/motor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069829"
+  },
+  {
+    "title": "redis-py",
+    "content": "The Python client for Redis.",
+    "source_url": "https://github.com/redis/redis-py",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069832"
+  },
+  {
+    "title": "arrow",
+    "content": "A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.",
+    "source_url": "https://github.com/arrow-py/arrow",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069836"
+  },
+  {
+    "title": "dateutil",
+    "content": "Extensions to the standard Python [datetime",
+    "source_url": "https://github.com/dateutil/dateutil",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069840"
+  },
+  {
+    "title": "pendulum",
+    "content": "Python datetimes made easy.",
+    "source_url": "https://github.com/sdispater/pendulum",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069843"
+  },
+  {
+    "title": "pytz",
+    "content": "World timezone definitions, modern and historical. Brings the [tz database",
+    "source_url": "https://pypi.org/project/pytz/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069846"
+  },
+  {
+    "title": "ipdb",
+    "content": "IPython-enabled [pdb",
+    "source_url": "https://github.com/gotcha/ipdb",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069850"
+  },
+  {
+    "title": "pudb",
+    "content": "A full-screen, console-based Python debugger.",
+    "source_url": "https://github.com/inducer/pudb",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069853"
+  },
+  {
+    "title": "manhole",
+    "content": "Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.",
+    "source_url": "https://github.com/ionelmc/python-manhole",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069857"
+  },
+  {
+    "title": "python-hunter",
+    "content": "A flexible code tracing toolkit.",
+    "source_url": "https://github.com/ionelmc/python-hunter",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069860"
+  },
+  {
+    "title": "py-spy",
+    "content": "A sampling profiler for Python programs. Written in Rust.",
+    "source_url": "https://github.com/benfred/py-spy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069865"
+  },
+  {
+    "title": "vprof",
+    "content": "Visual Python profiler.",
+    "source_url": "https://github.com/nvdv/vprof",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069869"
+  },
+  {
+    "title": "django-debug-toolbar",
+    "content": "Display various debug information for Django.",
+    "source_url": "https://github.com/jazzband/django-debug-toolbar",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069872"
+  },
+  {
+    "title": "flask-debugtoolbar",
+    "content": "A port of the django-debug-toolbar to flask.",
+    "source_url": "https://github.com/pallets-eco/flask-debugtoolbar",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069877"
+  },
+  {
+    "title": "icecream",
+    "content": "Inspect variables, expressions, and program execution with a single, simple function call.",
+    "source_url": "https://github.com/gruns/icecream",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069882"
+  },
+  {
+    "title": "pyelftools",
+    "content": "Parsing and analyzing ELF files and DWARF debugging information.",
+    "source_url": "https://github.com/eliben/pyelftools",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069885"
+  },
+  {
+    "title": "keras",
+    "content": "A high-level neural networks library and capable of running on top of either TensorFlow or Theano.",
+    "source_url": "https://github.com/keras-team/keras",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069889"
+  },
+  {
+    "title": "pytorch",
+    "content": "Tensors and Dynamic neural networks in Python with strong GPU acceleration.",
+    "source_url": "https://github.com/pytorch/pytorch",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069892"
+  },
+  {
+    "title": "pytorch-lightning",
+    "content": "Deep learning framework to train, deploy, and ship AI products Lightning fast.",
+    "source_url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069896"
+  },
+  {
+    "title": "stable-baselines3",
+    "content": "PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.",
+    "source_url": "https://github.com/DLR-RM/stable-baselines3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069899"
+  },
+  {
+    "title": "tensorflow",
+    "content": "The most popular Deep Learning framework created by Google.",
+    "source_url": "https://github.com/tensorflow/tensorflow",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069903"
+  },
+  {
+    "title": "theano",
+    "content": "A library for fast numerical computation.",
+    "source_url": "https://github.com/Theano/Theano",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069906"
+  },
+  {
+    "title": "ansible",
+    "content": "A radically simple IT automation platform.",
+    "source_url": "https://github.com/ansible/ansible",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069911"
+  },
+  {
+    "title": "cloudinit",
+    "content": "A multi-distribution package that handles early initialization of a cloud instance.",
+    "source_url": "https://github.com/canonical/cloud-init",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069916"
+  },
+  {
+    "title": "openstack",
+    "content": "Open source software for building private and public clouds.",
+    "source_url": "https://www.openstack.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069921"
+  },
+  {
+    "title": "pyinfra",
+    "content": "A versatile CLI tools and python libraries to automate infrastructure.",
+    "source_url": "https://github.com/pyinfra-dev/pyinfra",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069926"
+  },
+  {
+    "title": "saltstack",
+    "content": "Infrastructure automation and management system.",
+    "source_url": "https://github.com/saltstack/salt",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069931"
+  },
+  {
+    "title": "cuisine",
+    "content": "Chef-like functionality for Fabric.",
+    "source_url": "https://github.com/sebastien/cuisine",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069936"
+  },
+  {
+    "title": "fabric",
+    "content": "A simple, Pythonic tool for remote execution and deployment.",
+    "source_url": "https://github.com/fabric/fabric",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069939"
+  },
+  {
+    "title": "supervisor",
+    "content": "Supervisor process control system for UNIX.",
+    "source_url": "https://github.com/Supervisor/supervisor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069943"
+  },
+  {
+    "title": "psutil",
+    "content": "A cross-platform process and system utilities module.",
+    "source_url": "https://github.com/giampaolo/psutil",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069946"
+  },
+  {
+    "title": "borg",
+    "content": "A deduplicating archiver with compression and encryption.",
+    "source_url": "https://github.com/borgbackup/borg",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069949"
+  },
+  {
+    "title": "dask",
+    "content": "A flexible parallel computing library for analytic computing.",
+    "source_url": "https://github.com/dask/dask",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069953"
+  },
+  {
+    "title": "luigi",
+    "content": "A module that helps you build complex pipelines of batch jobs.",
+    "source_url": "https://github.com/spotify/luigi",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069956"
+  },
+  {
+    "title": "PySpark",
+    "content": "[Apache Spark",
+    "source_url": "https://github.com/apache/spark",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.069960"
+  },
+  {
+    "title": "Ray",
+    "content": "A system for parallel and distributed Python that unifies the machine learning ecosystem.",
+    "source_url": "https://github.com/ray-project/ray/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071256"
+  },
+  {
+    "title": "faust",
+    "content": "A stream processing library, porting the ideas from [Kafka Streams",
+    "source_url": "https://github.com/robinhood/faust",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071260"
+  },
+  {
+    "title": "streamparse",
+    "content": "Run Python code against real-time streams of data via [Apache Storm",
+    "source_url": "https://github.com/Parsely/streamparse",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071264"
+  },
+  {
+    "title": "py2app",
+    "content": "Freezes Python scripts (Mac OS X).",
+    "source_url": "https://github.com/ronaldoussoren/py2app",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071271"
+  },
+  {
+    "title": "py2exe",
+    "content": "Freezes Python scripts (Windows).",
+    "source_url": "https://github.com/py2exe/py2exe",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071274"
+  },
+  {
+    "title": "pyarmor",
+    "content": "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+    "source_url": "https://github.com/dashingsoft/pyarmor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071277"
+  },
+  {
+    "title": "pyinstaller",
+    "content": "Converts Python programs into stand-alone executables (cross-platform).",
+    "source_url": "https://github.com/pyinstaller/pyinstaller",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071281"
+  },
+  {
+    "title": "shiv",
+    "content": "A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.",
+    "source_url": "https://github.com/linkedin/shiv",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071284"
+  },
+  {
+    "title": "sphinx",
+    "content": "Python Documentation generator.",
+    "source_url": "https://github.com/sphinx-doc/sphinx/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071288"
+  },
+  {
+    "title": "awesome-sphinxdoc",
+    "content": "",
+    "source_url": "https://github.com/yoloseem/awesome-sphinxdoc)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071291"
+  },
+  {
+    "title": "pdoc",
+    "content": "Epydoc replacement to auto generate API documentation for Python libraries.",
+    "source_url": "https://github.com/mitmproxy/pdoc",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071294"
+  },
+  {
+    "title": "akshare",
+    "content": "A financial data interface library, built for human beings!",
+    "source_url": "https://github.com/jindaxiang/akshare",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071297"
+  },
+  {
+    "title": "s3cmd",
+    "content": "A command line tool for managing Amazon S3 and CloudFront.",
+    "source_url": "https://github.com/s3tools/s3cmd",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071300"
+  },
+  {
+    "title": "youtube-dl",
+    "content": "A command-line program to download videos from YouTube and other video sites.",
+    "source_url": "https://github.com/ytdl-org/youtube-dl/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071303"
+  },
+  {
+    "title": "elpy",
+    "content": "Emacs Python Development Environment.",
+    "source_url": "https://github.com/jorgenschaefer/elpy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071306"
+  },
+  {
+    "title": "jedi-vim",
+    "content": "Vim bindings for the Jedi auto-completion library for Python.",
+    "source_url": "https://github.com/davidhalter/jedi-vim",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071309"
+  },
+  {
+    "title": "python-mode",
+    "content": "An all in one plugin for turning Vim into a Python IDE.",
+    "source_url": "https://github.com/python-mode/python-mode",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071312"
+  },
+  {
+    "title": "YouCompleteMe",
+    "content": "Includes [Jedi",
+    "source_url": "https://github.com/Valloric/YouCompleteMe",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071315"
+  },
+  {
+    "title": "PTVS",
+    "content": "Python Tools for Visual Studio.",
+    "source_url": "https://github.com/Microsoft/PTVS",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071318"
+  },
+  {
+    "title": "Python",
+    "content": "The official VSCode extension with rich support for Python.",
+    "source_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071321"
+  },
+  {
+    "title": "PyCharm",
+    "content": "Commercial Python IDE by JetBrains. Has free community edition available.",
+    "source_url": "https://www.jetbrains.com/pycharm/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071323"
+  },
+  {
+    "title": "spyder",
+    "content": "Open Source Python IDE.",
+    "source_url": "https://github.com/spyder-ide/spyder",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071326"
+  },
+  {
+    "title": "modoboa",
+    "content": "A mail hosting and management platform including a modern Web UI.",
+    "source_url": "https://github.com/modoboa/modoboa",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071329"
+  },
+  {
+    "title": "salmon",
+    "content": "A Python Mail Server.",
+    "source_url": "https://github.com/moggers87/salmon",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071332"
+  },
+  {
+    "title": "imbox",
+    "content": "Python IMAP for Humans.",
+    "source_url": "https://github.com/martinrusev/imbox",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071336"
+  },
+  {
+    "title": "yagmail",
+    "content": "Yet another Gmail/SMTP client.",
+    "source_url": "https://github.com/kootenpv/yagmail",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071339"
+  },
+  {
+    "title": "flanker",
+    "content": "An email address and Mime parsing library.",
+    "source_url": "https://github.com/mailgun/flanker",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071342"
+  },
+  {
+    "title": "mailer",
+    "content": "High-performance extensible mail delivery framework.",
+    "source_url": "https://github.com/marrow/mailer",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071344"
+  },
+  {
+    "title": "pyenv",
+    "content": "Simple Python version management.",
+    "source_url": "https://github.com/pyenv/pyenv",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071348"
+  },
+  {
+    "title": "virtualenv",
+    "content": "A tool to create isolated Python environments.",
+    "source_url": "https://github.com/pypa/virtualenv",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071351"
+  },
+  {
+    "title": "mimetypes",
+    "content": "(Python standard library) Map filenames to MIME types.",
+    "source_url": "https://docs.python.org/3/library/mimetypes.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071354"
+  },
+  {
+    "title": "pathlib",
+    "content": "(Python standard library) An cross-platform, object-oriented path library.",
+    "source_url": "https://docs.python.org/3/library/pathlib.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071357"
+  },
+  {
+    "title": "path.py",
+    "content": "A module wrapper for [os.path",
+    "source_url": "https://github.com/jaraco/path.py",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071360"
+  },
+  {
+    "title": "python-magic",
+    "content": "A Python interface to the libmagic file type identification library.",
+    "source_url": "https://github.com/ahupp/python-magic",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071362"
+  },
+  {
+    "title": "watchdog",
+    "content": "API and shell utilities to monitor file system events.",
+    "source_url": "https://github.com/gorakhargosh/watchdog",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071366"
+  },
+  {
+    "title": "coconut",
+    "content": "A variant of Python built for simple, elegant, Pythonic functional programming.",
+    "source_url": "https://github.com/evhub/coconut",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071369"
+  },
+  {
+    "title": "funcy",
+    "content": "A fancy and practical functional tools.",
+    "source_url": "https://github.com/Suor/funcy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071372"
+  },
+  {
+    "title": "more-itertools",
+    "content": "More routines for operating on iterables, beyond `itertools`.",
+    "source_url": "https://github.com/erikrose/more-itertools",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071374"
+  },
+  {
+    "title": "returns",
+    "content": "A set of type-safe monads, transformers, and composition utilities.",
+    "source_url": "https://github.com/dry-python/returns",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071377"
+  },
+  {
+    "title": "cytoolz",
+    "content": "Cython implementation of `Toolz`: High performance functional utilities.",
+    "source_url": "https://github.com/pytoolz/cytoolz/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071380"
+  },
+  {
+    "title": "toolz",
+    "content": "A collection of functional utilities for iterators, functions, and dictionaries.",
+    "source_url": "https://github.com/pytoolz/toolz",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071382"
+  },
+  {
+    "title": "curses",
+    "content": "Built-in wrapper for [ncurses",
+    "source_url": "https://docs.python.org/3/library/curses.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071386"
+  },
+  {
+    "title": "Eel",
+    "content": "A library for making simple Electron-like offline HTML/JS GUI apps.",
+    "source_url": "https://github.com/ChrisKnott/Eel",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071388"
+  },
+  {
+    "title": "enaml",
+    "content": "Creating beautiful user-interfaces with Declarative Syntax like QML.",
+    "source_url": "https://github.com/nucleic/enaml",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071391"
+  },
+  {
+    "title": "Flexx",
+    "content": "Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.",
+    "source_url": "https://github.com/zoofIO/flexx",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071394"
+  },
+  {
+    "title": "Gooey",
+    "content": "Turn command line programs into a full GUI application with one line.",
+    "source_url": "https://github.com/chriskiehl/Gooey",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071397"
+  },
+  {
+    "title": "kivy",
+    "content": "A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.",
+    "source_url": "https://kivy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071399"
+  },
+  {
+    "title": "pyglet",
+    "content": "A cross-platform windowing and multimedia library for Python.",
+    "source_url": "https://github.com/pyglet/pyglet",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071402"
+  },
+  {
+    "title": "PyGObject",
+    "content": "Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).",
+    "source_url": "https://pygobject.readthedocs.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071405"
+  },
+  {
+    "title": "PyQt",
+    "content": "Python bindings for the [Qt",
+    "source_url": "https://doc.qt.io/qtforpython/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071408"
+  },
+  {
+    "title": "PySimpleGUI",
+    "content": "Wrapper for tkinter, Qt, WxPython and Remi.",
+    "source_url": "https://github.com/PySimpleGUI/PySimpleGUI",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071411"
+  },
+  {
+    "title": "pywebview",
+    "content": "A lightweight cross-platform native wrapper around a webview component.",
+    "source_url": "https://github.com/r0x0r/pywebview/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071414"
+  },
+  {
+    "title": "Tkinter",
+    "content": "Tkinter is Python's de-facto standard GUI package.",
+    "source_url": "https://wiki.python.org/moin/TkInter",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071416"
+  },
+  {
+    "title": "Toga",
+    "content": "A Python native, OS native GUI toolkit.",
+    "source_url": "https://github.com/pybee/toga",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071419"
+  },
+  {
+    "title": "urwid",
+    "content": "A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.",
+    "source_url": "http://urwid.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071422"
+  },
+  {
+    "title": "wxPython",
+    "content": "A blending of the wxWidgets C++ class library with the Python.",
+    "source_url": "https://wxpython.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071426"
+  },
+  {
+    "title": "DearPyGui",
+    "content": "A Simple GPU accelerated Python GUI framework",
+    "source_url": "https://github.com/RaylockLLC/DearPyGui/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071428"
+  },
+  {
+    "title": "graphene",
+    "content": "GraphQL framework for Python.",
+    "source_url": "https://github.com/graphql-python/graphene/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071432"
+  },
+  {
+    "title": "Arcade",
+    "content": "Arcade is a modern Python framework for crafting games with compelling graphics and sound.",
+    "source_url": "https://api.arcade.academy/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071436"
+  },
+  {
+    "title": "Cocos2d",
+    "content": "cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications.",
+    "source_url": "https://www.cocos.com/en/cocos2d-x",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071438"
+  },
+  {
+    "title": "Harfang3D",
+    "content": "Python framework for 3D, VR and game development.",
+    "source_url": "http://www.harfang3d.com",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071441"
+  },
+  {
+    "title": "Panda3D",
+    "content": "3D game engine developed by Disney.",
+    "source_url": "https://www.panda3d.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071444"
+  },
+  {
+    "title": "Pygame",
+    "content": "Pygame is a set of Python modules designed for writing games.",
+    "source_url": "http://www.pygame.org/news.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071446"
+  },
+  {
+    "title": "PyOgre",
+    "content": "Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.",
+    "source_url": "http://www.ogre3d.org/tikiwiki/PyOgre",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071450"
+  },
+  {
+    "title": "PyOpenGL",
+    "content": "Python ctypes bindings for OpenGL and it's related APIs.",
+    "source_url": "http://pyopengl.sourceforge.net/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071453"
+  },
+  {
+    "title": "PySDL2",
+    "content": "A ctypes based wrapper for the SDL2 library.",
+    "source_url": "https://pysdl2.readthedocs.io",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071455"
+  },
+  {
+    "title": "RenPy",
+    "content": "A Visual Novel engine.",
+    "source_url": "https://www.renpy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071458"
+  },
+  {
+    "title": "django-countries",
+    "content": "A Django app that provides a country field for models and forms.",
+    "source_url": "https://github.com/SmileyChris/django-countries",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071461"
+  },
+  {
+    "title": "geodjango",
+    "content": "A world-class geographic web framework.",
+    "source_url": "https://docs.djangoproject.com/en/dev/ref/contrib/gis/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071465"
+  },
+  {
+    "title": "geojson",
+    "content": "Python bindings and utilities for GeoJSON.",
+    "source_url": "https://github.com/jazzband/geojson",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071468"
+  },
+  {
+    "title": "geopy",
+    "content": "Python Geocoding Toolbox.",
+    "source_url": "https://github.com/geopy/geopy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071470"
+  },
+  {
+    "title": "beautifulsoup",
+    "content": "Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.",
+    "source_url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071473"
+  },
+  {
+    "title": "bleach",
+    "content": "A whitelist-based HTML sanitization and text linkification library.",
+    "source_url": "https://github.com/mozilla/bleach",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071476"
+  },
+  {
+    "title": "cssutils",
+    "content": "A CSS library for Python.",
+    "source_url": "https://pypi.org/project/cssutils/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071479"
+  },
+  {
+    "title": "html5lib",
+    "content": "A standards-compliant library for parsing and serializing HTML documents and fragments.",
+    "source_url": "https://github.com/html5lib/html5lib-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071481"
+  },
+  {
+    "title": "lxml",
+    "content": "A very fast, easy-to-use and versatile library for handling HTML and XML.",
+    "source_url": "http://lxml.de/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071484"
+  },
+  {
+    "title": "markupsafe",
+    "content": "Implements a XML/HTML/XHTML Markup safe string for Python.",
+    "source_url": "https://github.com/pallets/markupsafe",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071487"
+  },
+  {
+    "title": "pyquery",
+    "content": "A jQuery-like library for parsing HTML.",
+    "source_url": "https://github.com/gawel/pyquery",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071489"
+  },
+  {
+    "title": "untangle",
+    "content": "Converts XML documents to Python objects for easy access.",
+    "source_url": "https://github.com/stchris/untangle",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071493"
+  },
+  {
+    "title": "WeasyPrint",
+    "content": "A visual rendering engine for HTML and CSS that can export to PDF.",
+    "source_url": "http://weasyprint.org",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071497"
+  },
+  {
+    "title": "xmldataset",
+    "content": "Simple XML Parsing.",
+    "source_url": "https://xmldataset.readthedocs.io/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071502"
+  },
+  {
+    "title": "xmltodict",
+    "content": "Working with XML feel like you are working with JSON.",
+    "source_url": "https://github.com/martinblech/xmltodict",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071505"
+  },
+  {
+    "title": "httpx",
+    "content": "A next generation HTTP client for Python.",
+    "source_url": "https://github.com/encode/httpx",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071508"
+  },
+  {
+    "title": "requests",
+    "content": "HTTP Requests for Humans.",
+    "source_url": "https://github.com/psf/requests",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071512"
+  },
+  {
+    "title": "treq",
+    "content": "Python requests like API built on top of Twisted's HTTP client.",
+    "source_url": "https://github.com/twisted/treq",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071515"
+  },
+  {
+    "title": "urllib3",
+    "content": "A HTTP library with thread-safe connection pooling, file post support, sanity friendly.",
+    "source_url": "https://github.com/urllib3/urllib3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071518"
+  },
+  {
+    "title": "keyboard",
+    "content": "Hook and simulate global keyboard events on Windows and Linux.",
+    "source_url": "https://github.com/boppreh/keyboard",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071521"
+  },
+  {
+    "title": "mouse",
+    "content": "Hook and simulate global mouse events on Windows and Linux.",
+    "source_url": "https://github.com/boppreh/mouse",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071523"
+  },
+  {
+    "title": "pynput",
+    "content": "A library to control and monitor input devices.",
+    "source_url": "https://github.com/moses-palmer/pynput",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071526"
+  },
+  {
+    "title": "scapy",
+    "content": "A brilliant packet manipulation library.",
+    "source_url": "https://github.com/secdev/scapy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071531"
+  },
+  {
+    "title": "pillow",
+    "content": "Pillow is the friendly [PIL",
+    "source_url": "https://github.com/python-pillow/Pillow",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071534"
+  },
+  {
+    "title": "python-barcode",
+    "content": "Create barcodes in Python with no extra dependencies.",
+    "source_url": "https://github.com/WhyNotHugo/python-barcode",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071537"
+  },
+  {
+    "title": "pymatting",
+    "content": "A library for alpha matting.",
+    "source_url": "http://github.com/pymatting/pymatting",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071540"
+  },
+  {
+    "title": "python-qrcode",
+    "content": "A pure Python QR Code generator.",
+    "source_url": "https://github.com/lincolnloop/python-qrcode",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071542"
+  },
+  {
+    "title": "pywal",
+    "content": "A tool that generates color schemes from images.",
+    "source_url": "https://github.com/dylanaraps/pywal",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071548"
+  },
+  {
+    "title": "pyvips",
+    "content": "A fast image processing library with low memory needs.",
+    "source_url": "https://github.com/libvips/pyvips",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071552"
+  },
+  {
+    "title": "quads",
+    "content": "Computer art based on quadtrees.",
+    "source_url": "https://github.com/fogleman/Quads",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071557"
+  },
+  {
+    "title": "scikit-image",
+    "content": "A Python library for (scientific) image processing.",
+    "source_url": "http://scikit-image.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071561"
+  },
+  {
+    "title": "thumbor",
+    "content": "A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.",
+    "source_url": "https://github.com/thumbor/thumbor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071563"
+  },
+  {
+    "title": "wand",
+    "content": "Python bindings for [MagickWand",
+    "source_url": "https://github.com/emcconville/wand",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071566"
+  },
+  {
+    "title": "cpython",
+    "content": "**Default, most widely used implementation of the Python programming language written in C.**",
+    "source_url": "https://github.com/python/cpython",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071569"
+  },
+  {
+    "title": "cython",
+    "content": "Optimizing Static Compiler for Python.",
+    "source_url": "https://github.com/cython/cython",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071572"
+  },
+  {
+    "title": "clpython",
+    "content": "Implementation of the Python programming language written in Common Lisp.",
+    "source_url": "https://github.com/metawilm/cl-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071574"
+  },
+  {
+    "title": "ironpython",
+    "content": "Implementation of the Python programming language written in C#.",
+    "source_url": "https://github.com/IronLanguages/ironpython3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071577"
+  },
+  {
+    "title": "micropython",
+    "content": "A lean and efficient Python programming language implementation.",
+    "source_url": "https://github.com/micropython/micropython",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071582"
+  },
+  {
+    "title": "numba",
+    "content": "Python JIT compiler to LLVM aimed at scientific Python.",
+    "source_url": "https://github.com/numba/numba",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071584"
+  },
+  {
+    "title": "peachpy",
+    "content": "x86-64 assembler embedded in Python.",
+    "source_url": "https://github.com/Maratyszcza/PeachPy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071587"
+  },
+  {
+    "title": "pypy",
+    "content": "A very fast and compliant implementation of the Python language.",
+    "source_url": "https://foss.heptapod.net/pypy/pypy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071591"
+  },
+  {
+    "title": "pyston",
+    "content": "A Python implementation using JIT techniques.",
+    "source_url": "https://github.com/pyston/pyston/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071594"
+  },
+  {
+    "title": "bpython",
+    "content": "A fancy interface to the Python interpreter.",
+    "source_url": "https://github.com/bpython/bpython",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071597"
+  },
+  {
+    "title": "Jupyter Notebook (IPython)",
+    "content": "A rich toolkit to help you make the most out of using Python interactively.",
+    "source_url": "https://jupyter.org",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071599"
+  },
+  {
+    "title": "awesome-jupyter",
+    "content": "",
+    "source_url": "https://github.com/markusschanta/awesome-jupyter)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071603"
+  },
+  {
+    "title": "ptpython",
+    "content": "Advanced Python REPL built on top of the [python-prompt-toolkit",
+    "source_url": "https://github.com/jonathanslenders/ptpython",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071609"
+  },
+  {
+    "title": "Babel",
+    "content": "An internationalization library for Python.",
+    "source_url": "http://babel.pocoo.org/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071614"
+  },
+  {
+    "title": "PyICU",
+    "content": "A wrapper of International Components for Unicode C++ library ([ICU",
+    "source_url": "https://github.com/ovalhub/pyicu",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071621"
+  },
+  {
+    "title": "Airflow",
+    "content": "Airflow is a platform to programmatically author, schedule and monitor workflows.",
+    "source_url": "https://airflow.apache.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071631"
+  },
+  {
+    "title": "APScheduler",
+    "content": "A light but powerful in-process task scheduler that lets you schedule functions.",
+    "source_url": "http://apscheduler.readthedocs.io/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071635"
+  },
+  {
+    "title": "django-schedule",
+    "content": "A calendaring app for Django.",
+    "source_url": "https://github.com/thauber/django-schedule",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071641"
+  },
+  {
+    "title": "doit",
+    "content": "A task runner and build tool.",
+    "source_url": "http://pydoit.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071644"
+  },
+  {
+    "title": "gunnery",
+    "content": "Multipurpose task execution tool for distributed systems with web-based interface.",
+    "source_url": "https://github.com/gunnery/gunnery",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071648"
+  },
+  {
+    "title": "Joblib",
+    "content": "A set of tools to provide lightweight pipelining in Python.",
+    "source_url": "https://joblib.readthedocs.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071651"
+  },
+  {
+    "title": "Plan",
+    "content": "Writing crontab file in Python like a charm.",
+    "source_url": "https://github.com/fengsp/plan",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071654"
+  },
+  {
+    "title": "Prefect",
+    "content": "A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.",
+    "source_url": "https://github.com/PrefectHQ/prefect",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071656"
+  },
+  {
+    "title": "schedule",
+    "content": "Python job scheduling for humans.",
+    "source_url": "https://github.com/dbader/schedule",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071659"
+  },
+  {
+    "title": "Spiff",
+    "content": "A powerful workflow engine implemented in pure Python.",
+    "source_url": "https://github.com/knipknap/SpiffWorkflow",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071672"
+  },
+  {
+    "title": "TaskFlow",
+    "content": "A Python library that helps to make task execution easy, consistent and reliable.",
+    "source_url": "https://docs.openstack.org/developer/taskflow/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071675"
+  },
+  {
+    "title": "logbook",
+    "content": "Logging replacement for Python.",
+    "source_url": "http://logbook.readthedocs.io/en/stable/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071679"
+  },
+  {
+    "title": "logging",
+    "content": "(Python standard library) Logging facility for Python.",
+    "source_url": "https://docs.python.org/3/library/logging.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071681"
+  },
+  {
+    "title": "loguru",
+    "content": "Library which aims to bring enjoyable logging in Python.",
+    "source_url": "https://github.com/Delgan/loguru",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071684"
+  },
+  {
+    "title": "sentry-python",
+    "content": "Sentry SDK for Python.",
+    "source_url": "https://github.com/getsentry/sentry-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071687"
+  },
+  {
+    "title": "structlog",
+    "content": "Structured logging made easy.",
+    "source_url": "https://www.structlog.org/en/stable/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071689"
+  },
+  {
+    "title": "gym",
+    "content": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "source_url": "https://github.com/openai/gym",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071693"
+  },
+  {
+    "title": "H2O",
+    "content": "Open Source Fast Scalable Machine Learning Platform.",
+    "source_url": "https://github.com/h2oai/h2o-3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071708"
+  },
+  {
+    "title": "Metrics",
+    "content": "Machine learning evaluation metrics.",
+    "source_url": "https://github.com/benhamner/Metrics",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071711"
+  },
+  {
+    "title": "NuPIC",
+    "content": "Numenta Platform for Intelligent Computing.",
+    "source_url": "https://github.com/numenta/nupic",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071715"
+  },
+  {
+    "title": "scikit-learn",
+    "content": "The most popular Python library for Machine Learning.",
+    "source_url": "http://scikit-learn.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071718"
+  },
+  {
+    "title": "Spark ML",
+    "content": "[Apache Spark",
+    "source_url": "http://spark.apache.org/docs/latest/ml-guide.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071721"
+  },
+  {
+    "title": "vowpal_porpoise",
+    "content": "A lightweight Python wrapper for [Vowpal Wabbit",
+    "source_url": "https://github.com/josephreisinger/vowpal_porpoise",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071725"
+  },
+  {
+    "title": "xgboost",
+    "content": "A scalable, portable, and distributed gradient boosting library.",
+    "source_url": "https://github.com/dmlc/xgboost",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071728"
+  },
+  {
+    "title": "MindsDB",
+    "content": "MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.",
+    "source_url": "https://github.com/mindsdb/mindsdb",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071731"
+  },
+  {
+    "title": "Python(x,y)",
+    "content": "Scientific-applications-oriented Python Distribution based on Qt and Spyder.",
+    "source_url": "http://python-xy.github.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071734"
+  },
+  {
+    "title": "pythonlibs",
+    "content": "Unofficial Windows binaries for Python extension packages.",
+    "source_url": "http://www.lfd.uci.edu/~gohlke/pythonlibs/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071737"
+  },
+  {
+    "title": "PythonNet",
+    "content": "Python Integration with the .NET Common Language Runtime (CLR).",
+    "source_url": "https://github.com/pythonnet/pythonnet",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071739"
+  },
+  {
+    "title": "PyWin32",
+    "content": "Python Extensions for Windows.",
+    "source_url": "https://github.com/mhammond/pywin32",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071742"
+  },
+  {
+    "title": "WinPython",
+    "content": "Portable development environment for Windows 7/8.",
+    "source_url": "https://winpython.github.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071746"
+  },
+  {
+    "title": "blinker",
+    "content": "A fast Python in-process signal/event dispatching system.",
+    "source_url": "https://github.com/jek/blinker",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071749"
+  },
+  {
+    "title": "boltons",
+    "content": "A set of pure-Python utilities.",
+    "source_url": "https://github.com/mahmoud/boltons",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071751"
+  },
+  {
+    "title": "itsdangerous",
+    "content": "Various helpers to pass trusted data to untrusted environments.",
+    "source_url": "https://github.com/pallets/itsdangerous",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071754"
+  },
+  {
+    "title": "magenta",
+    "content": "A tool to generate music and art using artificial intelligence.",
+    "source_url": "https://github.com/magenta/magenta",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071757"
+  },
+  {
+    "title": "pluginbase",
+    "content": "A simple but flexible plugin system for Python.",
+    "source_url": "https://github.com/mitsuhiko/pluginbase",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071759"
+  },
+  {
+    "title": "tryton",
+    "content": "A general purpose business framework.",
+    "source_url": "http://www.tryton.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071762"
+  },
+  {
+    "title": "gensim",
+    "content": "Topic Modeling for Humans.",
+    "source_url": "https://github.com/RaRe-Technologies/gensim",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071766"
+  },
+  {
+    "title": "langid.py",
+    "content": "Stand-alone language identification system.",
+    "source_url": "https://github.com/saffsd/langid.py",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071770"
+  },
+  {
+    "title": "nltk",
+    "content": "A leading platform for building Python programs to work with human language data.",
+    "source_url": "http://www.nltk.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071775"
+  },
+  {
+    "title": "pattern",
+    "content": "A web mining module.",
+    "source_url": "https://github.com/clips/pattern",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071779"
+  },
+  {
+    "title": "polyglot",
+    "content": "Natural language pipeline supporting hundreds of languages.",
+    "source_url": "https://github.com/aboSamoor/polyglot",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071782"
+  },
+  {
+    "title": "pytext",
+    "content": "A natural language modeling framework based on PyTorch.",
+    "source_url": "https://github.com/facebookresearch/pytext",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071784"
+  },
+  {
+    "title": "PyTorch-NLP",
+    "content": "A toolkit enabling rapid deep learning NLP prototyping for research.",
+    "source_url": "https://github.com/PetrochukM/PyTorch-NLP",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071787"
+  },
+  {
+    "title": "spacy",
+    "content": "A library for industrial-strength natural language processing in Python and Cython.",
+    "source_url": "https://spacy.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071790"
+  },
+  {
+    "title": "Stanza",
+    "content": "The Stanford NLP Group's official Python library, supporting 60+ languages.",
+    "source_url": "https://github.com/stanfordnlp/stanza",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071792"
+  },
+  {
+    "title": "funNLP",
+    "content": "A collection of tools and datasets for Chinese NLP.",
+    "source_url": "https://github.com/fighting41love/funNLP",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071795"
+  },
+  {
+    "title": "jieba",
+    "content": "The most popular Chinese text segmentation library.",
+    "source_url": "https://github.com/fxsjy/jieba",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071798"
+  },
+  {
+    "title": "pkuseg-python",
+    "content": "A toolkit for Chinese word segmentation in various domains.",
+    "source_url": "https://github.com/lancopku/pkuseg-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071801"
+  },
+  {
+    "title": "snownlp",
+    "content": "A library for processing Chinese text.",
+    "source_url": "https://github.com/isnowfy/snownlp",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071805"
+  },
+  {
+    "title": "mininet",
+    "content": "A popular network emulator and API written in Python.",
+    "source_url": "https://github.com/mininet/mininet",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071808"
+  },
+  {
+    "title": "napalm",
+    "content": "Cross-vendor API to manipulate network devices.",
+    "source_url": "https://github.com/napalm-automation/napalm",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071812"
+  },
+  {
+    "title": "pox",
+    "content": "A Python-based SDN control applications, such as OpenFlow SDN controllers.",
+    "source_url": "https://github.com/noxrepo/pox",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071816"
+  },
+  {
+    "title": "django-activity-stream",
+    "content": "Generating generic activity streams from the actions on your site.",
+    "source_url": "https://github.com/justquick/django-activity-stream",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071819"
+  },
+  {
+    "title": "Stream Framework",
+    "content": "Building news feed and notification systems using Cassandra and Redis.",
+    "source_url": "https://github.com/tschellenbach/Stream-Framework",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071822"
+  },
+  {
+    "title": "Django Models",
+    "content": "The Django ORM.",
+    "source_url": "https://docs.djangoproject.com/en/dev/topics/db/models/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071826"
+  },
+  {
+    "title": "SQLAlchemy",
+    "content": "The Python SQL Toolkit and Object Relational Mapper.",
+    "source_url": "https://www.sqlalchemy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071832"
+  },
+  {
+    "title": "awesome-sqlalchemy",
+    "content": "",
+    "source_url": "https://github.com/dahlia/awesome-sqlalchemy)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071837"
+  },
+  {
+    "title": "dataset",
+    "content": "Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.",
+    "source_url": "https://github.com/pudo/dataset",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071846"
+  },
+  {
+    "title": "orator",
+    "content": "The Orator ORM provides a simple yet beautiful ActiveRecord implementation.",
+    "source_url": "https://github.com/sdispater/orator",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071850"
+  },
+  {
+    "title": "orm",
+    "content": "An async ORM.",
+    "source_url": "https://github.com/encode/orm",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071852"
+  },
+  {
+    "title": "peewee",
+    "content": "A small, expressive ORM.",
+    "source_url": "https://github.com/coleifer/peewee",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071855"
+  },
+  {
+    "title": "pony",
+    "content": "ORM that provides a generator-oriented interface to SQL.",
+    "source_url": "https://github.com/ponyorm/pony/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071858"
+  },
+  {
+    "title": "pydal",
+    "content": "A pure Python Database Abstraction Layer.",
+    "source_url": "https://github.com/web2py/pydal/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071861"
+  },
+  {
+    "title": "hot-redis",
+    "content": "Rich Python data types for Redis.",
+    "source_url": "https://github.com/stephenmcd/hot-redis",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071864"
+  },
+  {
+    "title": "mongoengine",
+    "content": "A Python Object-Document-Mapper for working with MongoDB.",
+    "source_url": "https://github.com/MongoEngine/mongoengine",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071866"
+  },
+  {
+    "title": "PynamoDB",
+    "content": "A Pythonic interface for [Amazon DynamoDB",
+    "source_url": "https://github.com/pynamodb/PynamoDB",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071869"
+  },
+  {
+    "title": "redisco",
+    "content": "A Python Library for Simple Models and Containers Persisted in Redis.",
+    "source_url": "https://github.com/kiddouk/redisco",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071872"
+  },
+  {
+    "title": "pip",
+    "content": "The package installer for Python.",
+    "source_url": "https://pip.pypa.io/en/stable/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071875"
+  },
+  {
+    "title": "pip-tools",
+    "content": "A set of tools to keep your pinned Python dependencies fresh.",
+    "source_url": "https://github.com/jazzband/pip-tools",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071878"
+  },
+  {
+    "title": "PyPI",
+    "content": "",
+    "source_url": "https://pypi.org/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071880"
+  },
+  {
+    "title": "conda",
+    "content": "Cross-platform, Python-agnostic binary package manager.",
+    "source_url": "https://github.com/conda/conda/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071883"
+  },
+  {
+    "title": "poetry",
+    "content": "Python dependency management and packaging made easy.",
+    "source_url": "https://github.com/sdispater/poetry",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071886"
+  },
+  {
+    "title": "uv",
+    "content": "An extremely fast Python package and project manager, written in Rust.",
+    "source_url": "https://github.com/astral-sh/uv",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071889"
+  },
+  {
+    "title": "bandersnatch",
+    "content": "PyPI mirroring tool provided by Python Packaging Authority (PyPA).",
+    "source_url": "https://github.com/pypa/bandersnatch/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071892"
+  },
+  {
+    "title": "devpi",
+    "content": "PyPI server and packaging/testing/release tool.",
+    "source_url": "https://github.com/devpi/devpi",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071895"
+  },
+  {
+    "title": "localshop",
+    "content": "Local PyPI server (custom packages and auto-mirroring of pypi).",
+    "source_url": "https://github.com/jazzband/localshop",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071899"
+  },
+  {
+    "title": "warehouse",
+    "content": "Next generation Python Package Repository (PyPI).",
+    "source_url": "https://github.com/pypa/warehouse",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071902"
+  },
+  {
+    "title": "fsociety",
+    "content": "A Penetration testing framework.",
+    "source_url": "https://github.com/Manisso/fsociety",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071905"
+  },
+  {
+    "title": "setoolkit",
+    "content": "A toolkit for social engineering.",
+    "source_url": "https://github.com/trustedsec/social-engineer-toolkit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071908"
+  },
+  {
+    "title": "sqlmap",
+    "content": "Automatic SQL injection and database takeover tool.",
+    "source_url": "https://github.com/sqlmapproject/sqlmap",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071911"
+  },
+  {
+    "title": "django-guardian",
+    "content": "Implementation of per object permissions for Django 1.2+",
+    "source_url": "https://github.com/django-guardian/django-guardian",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071914"
+  },
+  {
+    "title": "django-rules",
+    "content": "A tiny but powerful app providing object-level permissions to Django, without requiring a database.",
+    "source_url": "https://github.com/dfunckt/django-rules",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071917"
+  },
+  {
+    "title": "delegator.py",
+    "content": "[Subprocesses",
+    "source_url": "https://github.com/amitt001/delegator.py",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071920"
+  },
+  {
+    "title": "sarge",
+    "content": "Yet another wrapper for subprocess.",
+    "source_url": "https://sarge.readthedocs.io/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071923"
+  },
+  {
+    "title": "sh",
+    "content": "A full-fledged subprocess replacement for Python.",
+    "source_url": "https://github.com/amoffat/sh",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071927"
+  },
+  {
+    "title": "annoy",
+    "content": "Approximate Nearest Neighbors in C++/Python optimized for memory usage.",
+    "source_url": "https://github.com/spotify/annoy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071930"
+  },
+  {
+    "title": "fastFM",
+    "content": "A library for Factorization Machines.",
+    "source_url": "https://github.com/ibayer/fastFM",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071934"
+  },
+  {
+    "title": "implicit",
+    "content": "A fast Python implementation of collaborative filtering for implicit datasets.",
+    "source_url": "https://github.com/benfred/implicit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071936"
+  },
+  {
+    "title": "libffm",
+    "content": "A library for Field-aware Factorization Machine (FFM).",
+    "source_url": "https://github.com/guestwalk/libffm",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071939"
+  },
+  {
+    "title": "lightfm",
+    "content": "A Python implementation of a number of popular recommendation algorithms.",
+    "source_url": "https://github.com/lyst/lightfm",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071942"
+  },
+  {
+    "title": "spotlight",
+    "content": "Deep recommender models using PyTorch.",
+    "source_url": "https://github.com/maciejkula/spotlight",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071944"
+  },
+  {
+    "title": "Surprise",
+    "content": "A scikit for building and analyzing recommender systems.",
+    "source_url": "https://github.com/NicolasHug/Surprise",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071947"
+  },
+  {
+    "title": "tensorrec",
+    "content": "A Recommendation Engine Framework in TensorFlow.",
+    "source_url": "https://github.com/jfkirk/tensorrec",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071950"
+  },
+  {
+    "title": "Bicycle Repair Man",
+    "content": "Bicycle Repair Man, a refactoring tool for Python.",
+    "source_url": "http://bicyclerepair.sourceforge.net/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071953"
+  },
+  {
+    "title": "Bowler",
+    "content": "Safe code refactoring for modern Python.",
+    "source_url": "https://pybowler.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071956"
+  },
+  {
+    "title": "Rope",
+    "content": "Rope is a python refactoring library.",
+    "source_url": "https://github.com/python-rope/rope",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071959"
+  },
+  {
+    "title": "django-rest-framework",
+    "content": "A powerful and flexible toolkit to build web APIs.",
+    "source_url": "https://github.com/encode/django-rest-framework",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071962"
+  },
+  {
+    "title": "django-tastypie",
+    "content": "Creating delicious APIs for Django apps.",
+    "source_url": "https://github.com/django-tastypie/django-tastypie",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071965"
+  },
+  {
+    "title": "eve",
+    "content": "REST API framework powered by Flask, MongoDB and good intentions.",
+    "source_url": "https://github.com/pyeve/eve",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071968"
+  },
+  {
+    "title": "flask-api",
+    "content": "Browsable Web APIs for Flask.",
+    "source_url": "https://github.com/flask-api/flask-api",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071971"
+  },
+  {
+    "title": "flask-restful",
+    "content": "Quickly building REST APIs for Flask.",
+    "source_url": "https://github.com/flask-restful/flask-restful",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071974"
+  },
+  {
+    "title": "cornice",
+    "content": "A RESTful framework for Pyramid.",
+    "source_url": "https://github.com/Cornices/cornice",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071979"
+  },
+  {
+    "title": "falcon",
+    "content": "A high-performance framework for building cloud APIs and web app backends.",
+    "source_url": "https://github.com/falconry/falcon",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071982"
+  },
+  {
+    "title": "fastapi",
+    "content": "A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.",
+    "source_url": "https://github.com/tiangolo/fastapi",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071985"
+  },
+  {
+    "title": "hug",
+    "content": "A Python 3 framework for cleanly exposing APIs.",
+    "source_url": "https://github.com/hugapi/hug",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071989"
+  },
+  {
+    "title": "sandman2",
+    "content": "Automated REST APIs for existing database-driven systems.",
+    "source_url": "https://github.com/jeffknupp/sandman2",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071993"
+  },
+  {
+    "title": "sanic",
+    "content": "A Python 3.6+ web server and web framework that's written to go fast.",
+    "source_url": "https://github.com/sanic-org/sanic",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.071997"
+  },
+  {
+    "title": "PythonRobotics",
+    "content": "This is a compilation of various robotics algorithms with visualizations.",
+    "source_url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072001"
+  },
+  {
+    "title": "rospy",
+    "content": "This is a library for ROS (Robot Operating System).",
+    "source_url": "http://wiki.ros.org/rospy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072003"
+  },
+  {
+    "title": "RPyC",
+    "content": "A transparent and symmetric RPC library for Python",
+    "source_url": "https://github.com/tomerfiliba/rpyc) (Remote Python Call",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072007"
+  },
+  {
+    "title": "zeroRPC",
+    "content": "zerorpc is a flexible RPC implementation based on [ZeroMQ",
+    "source_url": "https://github.com/0rpc/zerorpc-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072009"
+  },
+  {
+    "title": "astropy",
+    "content": "A community Python library for Astronomy.",
+    "source_url": "http://www.astropy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072013"
+  },
+  {
+    "title": "bcbio-nextgen",
+    "content": "Providing best-practice pipelines for fully automated high throughput sequencing analysis.",
+    "source_url": "https://github.com/chapmanb/bcbio-nextgen",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072015"
+  },
+  {
+    "title": "bccb",
+    "content": "Collection of useful code related to biological analysis.",
+    "source_url": "https://github.com/chapmanb/bcbb",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072018"
+  },
+  {
+    "title": "Biopython",
+    "content": "Biopython is a set of freely available tools for biological computation.",
+    "source_url": "http://biopython.org/wiki/Main_Page",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072022"
+  },
+  {
+    "title": "cclib",
+    "content": "A library for parsing and interpreting the results of computational chemistry packages.",
+    "source_url": "http://cclib.github.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072027"
+  },
+  {
+    "title": "Colour",
+    "content": "Implementing a comprehensive number of colour theory transformations and algorithms.",
+    "source_url": "http://colour-science.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072032"
+  },
+  {
+    "title": "Karate Club",
+    "content": "Unsupervised machine learning toolbox for graph structured data.",
+    "source_url": "https://github.com/benedekrozemberczki/karateclub",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072036"
+  },
+  {
+    "title": "NetworkX",
+    "content": "A high-productivity software for complex networks.",
+    "source_url": "https://networkx.github.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072039"
+  },
+  {
+    "title": "NIPY",
+    "content": "A collection of neuroimaging toolkits.",
+    "source_url": "http://nipy.org",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072043"
+  },
+  {
+    "title": "NumPy",
+    "content": "A fundamental package for scientific computing with Python.",
+    "source_url": "http://www.numpy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072046"
+  },
+  {
+    "title": "ObsPy",
+    "content": "A Python toolbox for seismology.",
+    "source_url": "https://github.com/obspy/obspy/wiki/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072049"
+  },
+  {
+    "title": "Open Babel",
+    "content": "A chemical toolbox designed to speak the many languages of chemical data.",
+    "source_url": "https://open-babel.readthedocs.io/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072051"
+  },
+  {
+    "title": "PyDy",
+    "content": "Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.",
+    "source_url": "http://www.pydy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072054"
+  },
+  {
+    "title": "PyMC",
+    "content": "Markov Chain Monte Carlo sampling toolkit.",
+    "source_url": "https://github.com/pymc-devs/pymc3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072057"
+  },
+  {
+    "title": "QuTiP",
+    "content": "Quantum Toolbox in Python.",
+    "source_url": "http://qutip.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072059"
+  },
+  {
+    "title": "RDKit",
+    "content": "Cheminformatics and Machine Learning Software.",
+    "source_url": "http://www.rdkit.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072062"
+  },
+  {
+    "title": "SciPy",
+    "content": "A Python-based ecosystem of open-source software for mathematics, science, and engineering.",
+    "source_url": "https://www.scipy.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072065"
+  },
+  {
+    "title": "SimPy",
+    "content": "A process-based discrete-event simulation framework.",
+    "source_url": "https://gitlab.com/team-simpy/simpy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072069"
+  },
+  {
+    "title": "statsmodels",
+    "content": "Statistical modeling and econometrics in Python.",
+    "source_url": "https://github.com/statsmodels/statsmodels",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072071"
+  },
+  {
+    "title": "SymPy",
+    "content": "A Python library for symbolic mathematics.",
+    "source_url": "https://github.com/sympy/sympy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072075"
+  },
+  {
+    "title": "Zipline",
+    "content": "A Pythonic algorithmic trading library.",
+    "source_url": "https://github.com/quantopian/zipline",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072078"
+  },
+  {
+    "title": "django-haystack",
+    "content": "Modular search for Django.",
+    "source_url": "https://github.com/django-haystack/django-haystack",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072081"
+  },
+  {
+    "title": "elasticsearch-dsl-py",
+    "content": "The official high-level Python client for Elasticsearch.",
+    "source_url": "https://github.com/elastic/elasticsearch-dsl-py",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072084"
+  },
+  {
+    "title": "elasticsearch-py",
+    "content": "The official low-level Python client for [Elasticsearch",
+    "source_url": "https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072087"
+  },
+  {
+    "title": "pysolr",
+    "content": "A lightweight Python wrapper for [Apache Solr",
+    "source_url": "https://github.com/django-haystack/pysolr",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072090"
+  },
+  {
+    "title": "whoosh",
+    "content": "A fast, pure Python search engine library.",
+    "source_url": "http://whoosh.readthedocs.io/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072092"
+  },
+  {
+    "title": "marshmallow",
+    "content": "A lightweight library for converting complex objects to and from simple Python datatypes.",
+    "source_url": "https://github.com/marshmallow-code/marshmallow",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072096"
+  },
+  {
+    "title": "pysimdjson",
+    "content": "A Python bindings for [simdjson",
+    "source_url": "https://github.com/TkTech/pysimdjson",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072099"
+  },
+  {
+    "title": "python-rapidjson",
+    "content": "A Python wrapper around [RapidJSON",
+    "source_url": "https://github.com/python-rapidjson/python-rapidjson",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072102"
+  },
+  {
+    "title": "ultrajson",
+    "content": "A fast JSON decoder and encoder written in C with Python bindings.",
+    "source_url": "https://github.com/esnme/ultrajson",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072105"
+  },
+  {
+    "title": "python-lambda",
+    "content": "A toolkit for developing and deploying Python code in AWS Lambda.",
+    "source_url": "https://github.com/nficano/python-lambda",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072108"
+  },
+  {
+    "title": "Zappa",
+    "content": "A tool for deploying WSGI applications on AWS Lambda and API Gateway.",
+    "source_url": "https://github.com/zappa/Zappa",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072112"
+  },
+  {
+    "title": "xonsh",
+    "content": "A Python-powered, cross-platform, Unix-gazing shell language and command prompt.",
+    "source_url": "https://github.com/xonsh/xonsh/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072115"
+  },
+  {
+    "title": "tablib",
+    "content": "A module for Tabular Datasets in XLS, CSV, JSON, YAML.",
+    "source_url": "https://github.com/jazzband/tablib",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072118"
+  },
+  {
+    "title": "docxtpl",
+    "content": "Editing a docx document by jinja2 template",
+    "source_url": "https://github.com/elapouya/python-docx-template",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072121"
+  },
+  {
+    "title": "openpyxl",
+    "content": "A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.",
+    "source_url": "https://openpyxl.readthedocs.io/en/stable/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072124"
+  },
+  {
+    "title": "pyexcel",
+    "content": "Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.",
+    "source_url": "https://github.com/pyexcel/pyexcel",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072126"
+  },
+  {
+    "title": "python-docx",
+    "content": "Reads, queries and modifies Microsoft Word 2007/2008 docx files.",
+    "source_url": "https://github.com/python-openxml/python-docx",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072129"
+  },
+  {
+    "title": "python-pptx",
+    "content": "Python library for creating and updating PowerPoint (.pptx) files.",
+    "source_url": "https://github.com/scanny/python-pptx",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072132"
+  },
+  {
+    "title": "unoconv",
+    "content": "Convert between any document format supported by LibreOffice/OpenOffice.",
+    "source_url": "https://github.com/unoconv/unoconv",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072135"
+  },
+  {
+    "title": "XlsxWriter",
+    "content": "A Python module for creating Excel .xlsx files.",
+    "source_url": "https://github.com/jmcnamara/XlsxWriter",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072137"
+  },
+  {
+    "title": "xlwings",
+    "content": "A BSD-licensed library that makes it easy to call Python from Excel and vice versa.",
+    "source_url": "https://github.com/ZoomerAnalytics/xlwings",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072140"
+  },
+  {
+    "title": "xlwt",
+    "content": "",
+    "source_url": "https://github.com/python-excel/xlwt) / [xlrd",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072143"
+  },
+  {
+    "title": "pdfminer.six",
+    "content": "Pdfminer.six is a community maintained fork of the original PDFMiner.",
+    "source_url": "https://github.com/pdfminer/pdfminer.six",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072146"
+  },
+  {
+    "title": "PyPDF2",
+    "content": "A library capable of splitting, merging and transforming PDF pages.",
+    "source_url": "https://github.com/mstamy2/PyPDF2",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072149"
+  },
+  {
+    "title": "ReportLab",
+    "content": "Allowing Rapid creation of rich PDF documents.",
+    "source_url": "https://www.reportlab.com/opensource/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072151"
+  },
+  {
+    "title": "Mistune",
+    "content": "Fastest and full featured pure Python parsers of Markdown.",
+    "source_url": "https://github.com/lepture/mistune",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072154"
+  },
+  {
+    "title": "Python-Markdown",
+    "content": "A Python implementation of John Gruber\u2019s Markdown.",
+    "source_url": "https://github.com/waylan/Python-Markdown",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072159"
+  },
+  {
+    "title": "PyYAML",
+    "content": "YAML implementations for Python.",
+    "source_url": "http://pyyaml.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072163"
+  },
+  {
+    "title": "csvkit",
+    "content": "Utilities for converting to and working with CSV.",
+    "source_url": "https://github.com/wireservice/csvkit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072166"
+  },
+  {
+    "title": "unp",
+    "content": "A command line tool that can unpack archives easily.",
+    "source_url": "https://github.com/mitsuhiko/unp",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072170"
+  },
+  {
+    "title": "lektor",
+    "content": "An easy to use static CMS and blog engine.",
+    "source_url": "https://github.com/lektor/lektor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072173"
+  },
+  {
+    "title": "mkdocs",
+    "content": "Markdown friendly documentation generator.",
+    "source_url": "https://github.com/mkdocs/mkdocs/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072176"
+  },
+  {
+    "title": "makesite",
+    "content": "Simple, lightweight, and magic-free static site/blog generator (< 130 lines).",
+    "source_url": "https://github.com/sunainapai/makesite",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072179"
+  },
+  {
+    "title": "nikola",
+    "content": "A static website and blog generator.",
+    "source_url": "https://github.com/getnikola/nikola",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072181"
+  },
+  {
+    "title": "pelican",
+    "content": "Static site generator that supports Markdown and reST syntax.",
+    "source_url": "https://github.com/getpelican/pelican",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072184"
+  },
+  {
+    "title": "django-taggit",
+    "content": "Simple tagging for Django.",
+    "source_url": "https://github.com/jazzband/django-taggit",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072187"
+  },
+  {
+    "title": "celery",
+    "content": "An asynchronous task queue/job queue based on distributed message passing.",
+    "source_url": "https://docs.celeryproject.org/en/stable/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072190"
+  },
+  {
+    "title": "dramatiq",
+    "content": "A fast and reliable background task processing library for Python 3.",
+    "source_url": "https://github.com/Bogdanp/dramatiq",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072194"
+  },
+  {
+    "title": "huey",
+    "content": "Little multi-threaded task queue.",
+    "source_url": "https://github.com/coleifer/huey",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072197"
+  },
+  {
+    "title": "mrq",
+    "content": "A distributed worker task queue in Python using Redis & gevent.",
+    "source_url": "https://github.com/pricingassistant/mrq",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072200"
+  },
+  {
+    "title": "rq",
+    "content": "Simple job queues for Python.",
+    "source_url": "https://github.com/rq/rq",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072202"
+  },
+  {
+    "title": "Genshi",
+    "content": "Python templating toolkit for generation of web-aware output.",
+    "source_url": "https://genshi.edgewall.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072206"
+  },
+  {
+    "title": "Jinja2",
+    "content": "A modern and designer friendly templating language.",
+    "source_url": "https://github.com/pallets/jinja",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072208"
+  },
+  {
+    "title": "Mako",
+    "content": "Hyperfast and lightweight templating for the Python platform.",
+    "source_url": "http://www.makotemplates.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072211"
+  },
+  {
+    "title": "hypothesis",
+    "content": "Hypothesis is an advanced Quickcheck style property based testing library.",
+    "source_url": "https://github.com/HypothesisWorks/hypothesis",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072214"
+  },
+  {
+    "title": "nose2",
+    "content": "The successor to `nose`, based on `unittest2.",
+    "source_url": "https://github.com/nose-devs/nose2",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072217"
+  },
+  {
+    "title": "pytest",
+    "content": "A mature full-featured Python testing tool.",
+    "source_url": "https://docs.pytest.org/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072221"
+  },
+  {
+    "title": "Robot Framework",
+    "content": "A generic test automation framework.",
+    "source_url": "https://github.com/robotframework/robotframework",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072224"
+  },
+  {
+    "title": "unittest",
+    "content": "(Python standard library) Unit testing framework.",
+    "source_url": "https://docs.python.org/3/library/unittest.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072227"
+  },
+  {
+    "title": "green",
+    "content": "A clean, colorful test runner.",
+    "source_url": "https://github.com/CleanCut/green",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072230"
+  },
+  {
+    "title": "mamba",
+    "content": "The definitive testing tool for Python. Born under the banner of BDD.",
+    "source_url": "http://nestorsalceda.github.io/mamba/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072232"
+  },
+  {
+    "title": "tox",
+    "content": "Auto builds and tests distributions in multiple Python versions",
+    "source_url": "https://tox.readthedocs.io/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072235"
+  },
+  {
+    "title": "locust",
+    "content": "Scalable user load testing tool written in Python.",
+    "source_url": "https://github.com/locustio/locust",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072238"
+  },
+  {
+    "title": "PyAutoGUI",
+    "content": "PyAutoGUI is a cross-platform GUI automation Python module for human beings.",
+    "source_url": "https://github.com/asweigart/pyautogui",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072241"
+  },
+  {
+    "title": "Schemathesis",
+    "content": "A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.",
+    "source_url": "https://github.com/kiwicom/schemathesis",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072245"
+  },
+  {
+    "title": "Selenium",
+    "content": "Python bindings for [Selenium",
+    "source_url": "https://pypi.org/project/selenium/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072247"
+  },
+  {
+    "title": "sixpack",
+    "content": "A language-agnostic A/B Testing framework.",
+    "source_url": "https://github.com/seatgeek/sixpack",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072250"
+  },
+  {
+    "title": "splinter",
+    "content": "Open source tool for testing web applications.",
+    "source_url": "https://github.com/cobrateam/splinter",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072253"
+  },
+  {
+    "title": "doublex",
+    "content": "Powerful test doubles framework for Python.",
+    "source_url": "https://pypi.org/project/doublex/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072256"
+  },
+  {
+    "title": "freezegun",
+    "content": "Travel through time by mocking the datetime module.",
+    "source_url": "https://github.com/spulec/freezegun",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072258"
+  },
+  {
+    "title": "httmock",
+    "content": "A mocking library for requests for Python 2.6+ and 3.2+.",
+    "source_url": "https://github.com/patrys/httmock",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072261"
+  },
+  {
+    "title": "httpretty",
+    "content": "HTTP request mock tool for Python.",
+    "source_url": "https://github.com/gabrielfalcao/HTTPretty",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072264"
+  },
+  {
+    "title": "mock",
+    "content": "(Python standard library) A mocking and patching library.",
+    "source_url": "https://docs.python.org/3/library/unittest.mock.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072266"
+  },
+  {
+    "title": "mocket",
+    "content": "A socket mock framework with gevent/asyncio/SSL support.",
+    "source_url": "https://github.com/mindflayer/python-mocket",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072269"
+  },
+  {
+    "title": "responses",
+    "content": "A utility library for mocking out the requests Python library.",
+    "source_url": "https://github.com/getsentry/responses",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072272"
+  },
+  {
+    "title": "VCR.py",
+    "content": "Record and replay HTTP interactions on your tests.",
+    "source_url": "https://github.com/kevin1024/vcrpy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072275"
+  },
+  {
+    "title": "factory_boy",
+    "content": "A test fixtures replacement for Python.",
+    "source_url": "https://github.com/FactoryBoy/factory_boy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072279"
+  },
+  {
+    "title": "mixer",
+    "content": "Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.",
+    "source_url": "https://github.com/klen/mixer",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072281"
+  },
+  {
+    "title": "model_mommy",
+    "content": "Creating random fixtures for testing in Django.",
+    "source_url": "https://github.com/vandersonmota/model_mommy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072284"
+  },
+  {
+    "title": "coverage",
+    "content": "Code coverage measurement.",
+    "source_url": "https://pypi.org/project/coverage/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072287"
+  },
+  {
+    "title": "fake2db",
+    "content": "Fake database generator.",
+    "source_url": "https://github.com/emirozer/fake2db",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072290"
+  },
+  {
+    "title": "faker",
+    "content": "A Python package that generates fake data.",
+    "source_url": "https://github.com/joke2k/faker",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072292"
+  },
+  {
+    "title": "mimesis",
+    "content": "is a Python library that help you generate fake data.",
+    "source_url": "https://github.com/lk-geimfari/mimesis",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072295"
+  },
+  {
+    "title": "radar",
+    "content": "Generate random datetime / time.",
+    "source_url": "https://pypi.org/project/radar/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072298"
+  },
+  {
+    "title": "chardet",
+    "content": "Python 2/3 compatible character encoding detector.",
+    "source_url": "https://github.com/chardet/chardet",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072302"
+  },
+  {
+    "title": "difflib",
+    "content": "(Python standard library) Helpers for computing deltas.",
+    "source_url": "https://docs.python.org/3/library/difflib.html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072305"
+  },
+  {
+    "title": "ftfy",
+    "content": "Makes Unicode text less broken and more consistent automagically.",
+    "source_url": "https://github.com/LuminosoInsight/python-ftfy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072308"
+  },
+  {
+    "title": "fuzzywuzzy",
+    "content": "Fuzzy String Matching.",
+    "source_url": "https://github.com/seatgeek/fuzzywuzzy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072311"
+  },
+  {
+    "title": "Levenshtein",
+    "content": "Fast computation of Levenshtein distance and string similarity.",
+    "source_url": "https://github.com/ztane/python-Levenshtein/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072314"
+  },
+  {
+    "title": "pangu.py",
+    "content": "Paranoid text spacing.",
+    "source_url": "https://github.com/vinta/pangu.py",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072316"
+  },
+  {
+    "title": "pyfiglet",
+    "content": "An implementation of figlet written in Python.",
+    "source_url": "https://github.com/pwaller/pyfiglet",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072319"
+  },
+  {
+    "title": "pypinyin",
+    "content": "Convert Chinese hanzi (\u6f22\u5b57) to pinyin (\u62fc\u97f3).",
+    "source_url": "https://github.com/mozillazg/python-pinyin",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072324"
+  },
+  {
+    "title": "textdistance",
+    "content": "Compute distance between sequences with 30+ algorithms.",
+    "source_url": "https://github.com/orsinium/textdistance",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072327"
+  },
+  {
+    "title": "unidecode",
+    "content": "ASCII transliterations of Unicode text.",
+    "source_url": "https://pypi.org/project/Unidecode/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072330"
+  },
+  {
+    "title": "awesome-slugify",
+    "content": "A Python slugify library that can preserve unicode.",
+    "source_url": "https://github.com/dimka665/awesome-slugify",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072333"
+  },
+  {
+    "title": "python-slugify",
+    "content": "A Python slugify library that translates unicode to ASCII.",
+    "source_url": "https://github.com/un33k/python-slugify",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072336"
+  },
+  {
+    "title": "unicode-slugify",
+    "content": "A slugifier that generates unicode slugs with Django as a dependency.",
+    "source_url": "https://github.com/mozilla/unicode-slugify",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072339"
+  },
+  {
+    "title": "hashids",
+    "content": "Implementation of [hashids",
+    "source_url": "https://github.com/davidaurelio/hashids-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072342"
+  },
+  {
+    "title": "shortuuid",
+    "content": "A generator library for concise, unambiguous and URL-safe UUIDs.",
+    "source_url": "https://github.com/skorokithakis/shortuuid",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072345"
+  },
+  {
+    "title": "ply",
+    "content": "Implementation of lex and yacc parsing tools for Python.",
+    "source_url": "https://github.com/dabeaz/ply",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072347"
+  },
+  {
+    "title": "pygments",
+    "content": "A generic syntax highlighter.",
+    "source_url": "http://pygments.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072350"
+  },
+  {
+    "title": "pyparsing",
+    "content": "A general purpose framework for generating parsers.",
+    "source_url": "https://github.com/pyparsing/pyparsing",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072353"
+  },
+  {
+    "title": "python-nameparser",
+    "content": "Parsing human names into their individual components.",
+    "source_url": "https://github.com/derek73/python-nameparser",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072355"
+  },
+  {
+    "title": "python-phonenumbers",
+    "content": "Parsing, formatting, storing and validating international phone numbers.",
+    "source_url": "https://github.com/daviddrysdale/python-phonenumbers",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072365"
+  },
+  {
+    "title": "python-user-agents",
+    "content": "Browser user agent parser.",
+    "source_url": "https://github.com/selwin/python-user-agents",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072368"
+  },
+  {
+    "title": "sqlparse",
+    "content": "A non-validating SQL parser.",
+    "source_url": "https://github.com/andialbrecht/sqlparse",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072372"
+  },
+  {
+    "title": "apache-libcloud",
+    "content": "One Python library for all clouds.",
+    "source_url": "https://libcloud.apache.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072375"
+  },
+  {
+    "title": "boto3",
+    "content": "Python interface to Amazon Web Services.",
+    "source_url": "https://github.com/boto/boto3",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072378"
+  },
+  {
+    "title": "django-wordpress",
+    "content": "WordPress models and views for Django.",
+    "source_url": "https://github.com/istrategylabs/django-wordpress",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072380"
+  },
+  {
+    "title": "facebook-sdk",
+    "content": "Facebook Platform Python SDK.",
+    "source_url": "https://github.com/mobolic/facebook-sdk",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072383"
+  },
+  {
+    "title": "google-api-python-client",
+    "content": "Google APIs Client Library for Python.",
+    "source_url": "https://github.com/google/google-api-python-client",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072386"
+  },
+  {
+    "title": "gspread",
+    "content": "Google Spreadsheets Python API.",
+    "source_url": "https://github.com/burnash/gspread",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072388"
+  },
+  {
+    "title": "twython",
+    "content": "A Python wrapper for the Twitter API.",
+    "source_url": "https://github.com/ryanmcgrath/twython",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072391"
+  },
+  {
+    "title": "furl",
+    "content": "A small Python library that makes parsing and manipulating URLs easy.",
+    "source_url": "https://github.com/gruns/furl",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072394"
+  },
+  {
+    "title": "purl",
+    "content": "A simple, immutable URL class with a clean API for interrogation and manipulation.",
+    "source_url": "https://github.com/codeinthehole/purl",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072397"
+  },
+  {
+    "title": "pyshorteners",
+    "content": "A pure Python URL shortening lib.",
+    "source_url": "https://github.com/ellisonleao/pyshorteners",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072399"
+  },
+  {
+    "title": "webargs",
+    "content": "A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.",
+    "source_url": "https://github.com/marshmallow-code/webargs",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072403"
+  },
+  {
+    "title": "moviepy",
+    "content": "A module for script-based movie editing with many formats, including animated GIFs.",
+    "source_url": "https://zulko.github.io/moviepy/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072408"
+  },
+  {
+    "title": "scikit-video",
+    "content": "Video processing routines for SciPy.",
+    "source_url": "https://github.com/aizvorski/scikit-video",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072412"
+  },
+  {
+    "title": "vidgear",
+    "content": "Most Powerful multi-threaded Video Processing framework.",
+    "source_url": "https://github.com/abhiTronix/vidgear",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072415"
+  },
+  {
+    "title": "django-compressor",
+    "content": "Compresses linked and inline JavaScript or CSS into a single cached file.",
+    "source_url": "https://github.com/django-compressor/django-compressor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072418"
+  },
+  {
+    "title": "django-pipeline",
+    "content": "An asset packaging library for Django.",
+    "source_url": "https://github.com/jazzband/django-pipeline",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072421"
+  },
+  {
+    "title": "django-storages",
+    "content": "A collection of custom storage back ends for Django.",
+    "source_url": "https://github.com/jschneier/django-storages",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072424"
+  },
+  {
+    "title": "fanstatic",
+    "content": "Packages, optimizes, and serves static file dependencies as Python packages.",
+    "source_url": "http://www.fanstatic.org/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072427"
+  },
+  {
+    "title": "fileconveyor",
+    "content": "A daemon to detect and sync files to CDNs, S3 and FTP.",
+    "source_url": "http://wimleers.com/fileconveyor",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072430"
+  },
+  {
+    "title": "flask-assets",
+    "content": "Helps you integrate webassets into your Flask app.",
+    "source_url": "https://github.com/miracle2k/flask-assets",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072432"
+  },
+  {
+    "title": "webassets",
+    "content": "Bundles, optimizes, and manages unique cache-busting URLs for static resources.",
+    "source_url": "https://github.com/miracle2k/webassets",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072435"
+  },
+  {
+    "title": "html2text",
+    "content": "Convert HTML to Markdown-formatted text.",
+    "source_url": "https://github.com/Alir3z4/html2text",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072438"
+  },
+  {
+    "title": "lassie",
+    "content": "Web Content Retrieval for Humans.",
+    "source_url": "https://github.com/michaelhelmick/lassie",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072441"
+  },
+  {
+    "title": "micawber",
+    "content": "A small library for extracting rich content from URLs.",
+    "source_url": "https://github.com/coleifer/micawber",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072444"
+  },
+  {
+    "title": "newspaper",
+    "content": "News extraction, article extraction and content curation in Python.",
+    "source_url": "https://github.com/codelucas/newspaper",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072449"
+  },
+  {
+    "title": "python-readability",
+    "content": "Fast Python port of arc90's readability tool.",
+    "source_url": "https://github.com/buriy/python-readability",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072454"
+  },
+  {
+    "title": "requests-html",
+    "content": "Pythonic HTML Parsing for Humans.",
+    "source_url": "https://github.com/psf/requests-html",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072458"
+  },
+  {
+    "title": "sumy",
+    "content": "A module for automatic summarization of text documents and HTML pages.",
+    "source_url": "https://github.com/miso-belica/sumy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072461"
+  },
+  {
+    "title": "textract",
+    "content": "Extract text from any document, Word, PowerPoint, PDFs, etc.",
+    "source_url": "https://github.com/deanmalmgren/textract",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072463"
+  },
+  {
+    "title": "toapi",
+    "content": "Every web site provides APIs.",
+    "source_url": "https://github.com/gaojiuli/toapi",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072466"
+  },
+  {
+    "title": "feedparser",
+    "content": "Universal feed parser.",
+    "source_url": "https://github.com/kurtmckee/feedparser",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072469"
+  },
+  {
+    "title": "grab",
+    "content": "Site scraping framework.",
+    "source_url": "https://github.com/lorien/grab",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072472"
+  },
+  {
+    "title": "mechanicalsoup",
+    "content": "A Python library for automating interaction with websites.",
+    "source_url": "https://github.com/MechanicalSoup/MechanicalSoup",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072475"
+  },
+  {
+    "title": "scrapy",
+    "content": "A fast high-level screen scraping and web crawling framework.",
+    "source_url": "https://github.com/scrapy/scrapy",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072477"
+  },
+  {
+    "title": "django",
+    "content": "The most popular web framework in Python.",
+    "source_url": "https://github.com/django/django",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072480"
+  },
+  {
+    "title": "awesome-django",
+    "content": "",
+    "source_url": "https://github.com/shahraizali/awesome-django)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072483"
+  },
+  {
+    "title": "awesome-django",
+    "content": "",
+    "source_url": "https://github.com/wsvincent/awesome-django)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072486"
+  },
+  {
+    "title": "flask",
+    "content": "A microframework for Python.",
+    "source_url": "https://github.com/pallets/flask",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072489"
+  },
+  {
+    "title": "awesome-flask",
+    "content": "",
+    "source_url": "https://github.com/humiaozuzu/awesome-flask)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072493"
+  },
+  {
+    "title": "pyramid",
+    "content": "A small, fast, down-to-earth, open source Python web framework.",
+    "source_url": "https://pylonsproject.org/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072496"
+  },
+  {
+    "title": "awesome-pyramid",
+    "content": "",
+    "source_url": "https://github.com/uralbash/awesome-pyramid)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072498"
+  },
+  {
+    "title": "masonite",
+    "content": "The modern and developer centric Python web framework.",
+    "source_url": "https://github.com/MasoniteFramework/masonite",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072501"
+  },
+  {
+    "title": "tornado",
+    "content": "A web framework and asynchronous networking library.",
+    "source_url": "https://github.com/tornadoweb/tornado",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072504"
+  },
+  {
+    "title": "autobahn-python",
+    "content": "WebSocket & WAMP for Python on Twisted and [asyncio",
+    "source_url": "https://github.com/crossbario/autobahn-python",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072507"
+  },
+  {
+    "title": "channels",
+    "content": "Developer-friendly asynchrony for Django.",
+    "source_url": "https://github.com/django/channels",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072510"
+  },
+  {
+    "title": "websockets",
+    "content": "A library for building WebSocket servers and clients with a focus on correctness and simplicity.",
+    "source_url": "https://github.com/aaugustin/websockets",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072513"
+  },
+  {
+    "title": "gunicorn",
+    "content": "Pre-forked, ported from Ruby's Unicorn project.",
+    "source_url": "https://github.com/benoitc/gunicorn",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072516"
+  },
+  {
+    "title": "uwsgi",
+    "content": "A project aims at developing a full stack for building hosting services, written in C.",
+    "source_url": "https://uwsgi-docs.readthedocs.io/en/latest/",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072518"
+  },
+  {
+    "title": "waitress",
+    "content": "Multi-threaded, powers Pyramid.",
+    "source_url": "https://github.com/Pylons/waitress",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072521"
+  },
+  {
+    "title": "werkzeug",
+    "content": "A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.",
+    "source_url": "https://github.com/pallets/werkzeug",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072524"
+  },
+  {
+    "title": "Awesome Python Newsletter",
+    "content": "",
+    "source_url": "http://python.libhunt.com/newsletter)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072527"
+  },
+  {
+    "title": "Pycoder's Weekly",
+    "content": "",
+    "source_url": "https://pycoders.com/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072531"
+  },
+  {
+    "title": "Python Tricks",
+    "content": "",
+    "source_url": "https://realpython.com/python-tricks/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072533"
+  },
+  {
+    "title": "Python Weekly",
+    "content": "",
+    "source_url": "https://www.pythonweekly.com/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072536"
+  },
+  {
+    "title": "Django Chat",
+    "content": "",
+    "source_url": "https://djangochat.com/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072539"
+  },
+  {
+    "title": "Python Bytes",
+    "content": "",
+    "source_url": "https://pythonbytes.fm)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072541"
+  },
+  {
+    "title": "Talk Python To Me",
+    "content": "",
+    "source_url": "https://talkpython.fm/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072544"
+  },
+  {
+    "title": "Python Test",
+    "content": "",
+    "source_url": "https://podcast.pythontest.com/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072546"
+  },
+  {
+    "title": "The Real Python Podcast",
+    "content": "",
+    "source_url": "https://realpython.com/podcasts/rpp/)",
+    "tags": "python, awesome-list",
+    "last_updated": "2025-09-08T08:55:16.072550"
+  }
+]
