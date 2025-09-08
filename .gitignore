@@ -1,0 +1,3 @@
+# Ignorer les bases de données générées localement
+knowledge/
+*.db
